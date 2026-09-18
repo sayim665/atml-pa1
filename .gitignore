@@ -1,0 +1,13 @@
+data/
+.venv/
+__pycache__/
+*.pyc
+wandb/
+checkpoints/
+*.pth
+*.pt
+.ipynb_checkpoints/
+*.egg-info/
+.DS_Store
+task4/cache/*
+!task4/cache/.gitkeep
