@@ -1,0 +1,1982 @@
+[
+  {
+    "path": "/content/drive/MyDrive/atml_pa1_task1/cue_conflicts/cat_shape__dog_texture__0000.png",
+    "content_path": "/content/drive/MyDrive/atml_pa1_task1/cue_conflicts/cat_shape__dog_texture__0000_content.png",
+    "shape_label": 3,
+    "texture_label": 5,
+    "shape_class": "cat",
+    "texture_class": "dog",
+    "edge_retention_ratio": 0.37084870848708484
+  },
+  {
+    "path": "/content/drive/MyDrive/atml_pa1_task1/cue_conflicts/cat_shape__dog_texture__0001.png",
+    "content_path": "/content/drive/MyDrive/atml_pa1_task1/cue_conflicts/cat_shape__dog_texture__0001_content.png",
+    "shape_label": 3,
+    "texture_label": 5,
+    "shape_class": "cat",
+    "texture_class": "dog",
+    "edge_retention_ratio": 0.4796380090497738
+  },
+  {
+    "path": "/content/drive/MyDrive/atml_pa1_task1/cue_conflicts/cat_shape__dog_texture__0002.png",
+    "content_path": "/content/drive/MyDrive/atml_pa1_task1/cue_conflicts/cat_shape__dog_texture__0002_content.png",
+    "shape_label": 3,
+    "texture_label": 5,
+    "shape_class": "cat",
+    "texture_class": "dog",
+    "edge_retention_ratio": 0.4679186228482003
+  },
+  {
+    "path": "/content/drive/MyDrive/atml_pa1_task1/cue_conflicts/cat_shape__dog_texture__0003.png",
+    "content_path": "/content/drive/MyDrive/atml_pa1_task1/cue_conflicts/cat_shape__dog_texture__0003_content.png",
+    "shape_label": 3,
+    "texture_label": 5,
+    "shape_class": "cat",
+    "texture_class": "dog",
+    "edge_retention_ratio": 0.515220700152207
+  },
+  {
+    "path": "/content/drive/MyDrive/atml_pa1_task1/cue_conflicts/cat_shape__dog_texture__0004.png",
+    "content_path": "/content/drive/MyDrive/atml_pa1_task1/cue_conflicts/cat_shape__dog_texture__0004_content.png",
+    "shape_label": 3,
+    "texture_label": 5,
+    "shape_class": "cat",
+    "texture_class": "dog",
+    "edge_retention_ratio": 0.6240276577355229
+  },
+  {
+    "path": "/content/drive/MyDrive/atml_pa1_task1/cue_conflicts/cat_shape__dog_texture__0005.png",
+    "content_path": "/content/drive/MyDrive/atml_pa1_task1/cue_conflicts/cat_shape__dog_texture__0005_content.png",
+    "shape_label": 3,
+    "texture_label": 5,
+    "shape_class": "cat",
+    "texture_class": "dog",
+    "edge_retention_ratio": 0.5971731448763251
+  },
+  {
+    "path": "/content/drive/MyDrive/atml_pa1_task1/cue_conflicts/cat_shape__dog_texture__0006.png",
+    "content_path": "/content/drive/MyDrive/atml_pa1_task1/cue_conflicts/cat_shape__dog_texture__0006_content.png",
+    "shape_label": 3,
+    "texture_label": 5,
+    "shape_class": "cat",
+    "texture_class": "dog",
+    "edge_retention_ratio": 0.8928176795580111
+  },
+  {
+    "path": "/content/drive/MyDrive/atml_pa1_task1/cue_conflicts/cat_shape__dog_texture__0007.png",
+    "content_path": "/content/drive/MyDrive/atml_pa1_task1/cue_conflicts/cat_shape__dog_texture__0007_content.png",
+    "shape_label": 3,
+    "texture_label": 5,
+    "shape_class": "cat",
+    "texture_class": "dog",
+    "edge_retention_ratio": 0.3996309963099631
+  },
+  {
+    "path": "/content/drive/MyDrive/atml_pa1_task1/cue_conflicts/cat_shape__dog_texture__0008.png",
+    "content_path": "/content/drive/MyDrive/atml_pa1_task1/cue_conflicts/cat_shape__dog_texture__0008_content.png",
+    "shape_label": 3,
+    "texture_label": 5,
+    "shape_class": "cat",
+    "texture_class": "dog",
+    "edge_retention_ratio": 0.5880829015544041
+  },
+  {
+    "path": "/content/drive/MyDrive/atml_pa1_task1/cue_conflicts/cat_shape__dog_texture__0009.png",
+    "content_path": "/content/drive/MyDrive/atml_pa1_task1/cue_conflicts/cat_shape__dog_texture__0009_content.png",
+    "shape_label": 3,
+    "texture_label": 5,
+    "shape_class": "cat",
+    "texture_class": "dog",
+    "edge_retention_ratio": 0.6451983898792409
+  },
+  {
+    "path": "/content/drive/MyDrive/atml_pa1_task1/cue_conflicts/cat_shape__dog_texture__0010.png",
+    "content_path": "/content/drive/MyDrive/atml_pa1_task1/cue_conflicts/cat_shape__dog_texture__0010_content.png",
+    "shape_label": 3,
+    "texture_label": 5,
+    "shape_class": "cat",
+    "texture_class": "dog",
+    "edge_retention_ratio": 0.3380835380835381
+  },
+  {
+    "path": "/content/drive/MyDrive/atml_pa1_task1/cue_conflicts/cat_shape__dog_texture__0011.png",
+    "content_path": "/content/drive/MyDrive/atml_pa1_task1/cue_conflicts/cat_shape__dog_texture__0011_content.png",
+    "shape_label": 3,
+    "texture_label": 5,
+    "shape_class": "cat",
+    "texture_class": "dog",
+    "edge_retention_ratio": 0.7575757575757576
+  },
+  {
+    "path": "/content/drive/MyDrive/atml_pa1_task1/cue_conflicts/cat_shape__dog_texture__0012.png",
+    "content_path": "/content/drive/MyDrive/atml_pa1_task1/cue_conflicts/cat_shape__dog_texture__0012_content.png",
+    "shape_label": 3,
+    "texture_label": 5,
+    "shape_class": "cat",
+    "texture_class": "dog",
+    "edge_retention_ratio": 0.6533269045323047
+  },
+  {
+    "path": "/content/drive/MyDrive/atml_pa1_task1/cue_conflicts/cat_shape__dog_texture__0013.png",
+    "content_path": "/content/drive/MyDrive/atml_pa1_task1/cue_conflicts/cat_shape__dog_texture__0013_content.png",
+    "shape_label": 3,
+    "texture_label": 5,
+    "shape_class": "cat",
+    "texture_class": "dog",
+    "edge_retention_ratio": 0.501322545511125
+  },
+  {
+    "path": "/content/drive/MyDrive/atml_pa1_task1/cue_conflicts/cat_shape__dog_texture__0014.png",
+    "content_path": "/content/drive/MyDrive/atml_pa1_task1/cue_conflicts/cat_shape__dog_texture__0014_content.png",
+    "shape_label": 3,
+    "texture_label": 5,
+    "shape_class": "cat",
+    "texture_class": "dog",
+    "edge_retention_ratio": 0.4345583494519665
+  },
+  {
+    "path": "/content/drive/MyDrive/atml_pa1_task1/cue_conflicts/cat_shape__dog_texture__0015.png",
+    "content_path": "/content/drive/MyDrive/atml_pa1_task1/cue_conflicts/cat_shape__dog_texture__0015_content.png",
+    "shape_label": 3,
+    "texture_label": 5,
+    "shape_class": "cat",
+    "texture_class": "dog",
+    "edge_retention_ratio": 0.5691225165562914
+  },
+  {
+    "path": "/content/drive/MyDrive/atml_pa1_task1/cue_conflicts/cat_shape__dog_texture__0016.png",
+    "content_path": "/content/drive/MyDrive/atml_pa1_task1/cue_conflicts/cat_shape__dog_texture__0016_content.png",
+    "shape_label": 3,
+    "texture_label": 5,
+    "shape_class": "cat",
+    "texture_class": "dog",
+    "edge_retention_ratio": 0.44681933842239185
+  },
+  {
+    "path": "/content/drive/MyDrive/atml_pa1_task1/cue_conflicts/cat_shape__dog_texture__0017.png",
+    "content_path": "/content/drive/MyDrive/atml_pa1_task1/cue_conflicts/cat_shape__dog_texture__0017_content.png",
+    "shape_label": 3,
+    "texture_label": 5,
+    "shape_class": "cat",
+    "texture_class": "dog",
+    "edge_retention_ratio": 0.4063272367770638
+  },
+  {
+    "path": "/content/drive/MyDrive/atml_pa1_task1/cue_conflicts/cat_shape__dog_texture__0018.png",
+    "content_path": "/content/drive/MyDrive/atml_pa1_task1/cue_conflicts/cat_shape__dog_texture__0018_content.png",
+    "shape_label": 3,
+    "texture_label": 5,
+    "shape_class": "cat",
+    "texture_class": "dog",
+    "edge_retention_ratio": 0.6834421820975797
+  },
+  {
+    "path": "/content/drive/MyDrive/atml_pa1_task1/cue_conflicts/cat_shape__dog_texture__0019.png",
+    "content_path": "/content/drive/MyDrive/atml_pa1_task1/cue_conflicts/cat_shape__dog_texture__0019_content.png",
+    "shape_label": 3,
+    "texture_label": 5,
+    "shape_class": "cat",
+    "texture_class": "dog",
+    "edge_retention_ratio": 0.48936170212765956
+  },
+  {
+    "path": "/content/drive/MyDrive/atml_pa1_task1/cue_conflicts/cat_shape__dog_texture__0020.png",
+    "content_path": "/content/drive/MyDrive/atml_pa1_task1/cue_conflicts/cat_shape__dog_texture__0020_content.png",
+    "shape_label": 3,
+    "texture_label": 5,
+    "shape_class": "cat",
+    "texture_class": "dog",
+    "edge_retention_ratio": 0.6070901033973413
+  },
+  {
+    "path": "/content/drive/MyDrive/atml_pa1_task1/cue_conflicts/cat_shape__dog_texture__0021.png",
+    "content_path": "/content/drive/MyDrive/atml_pa1_task1/cue_conflicts/cat_shape__dog_texture__0021_content.png",
+    "shape_label": 3,
+    "texture_label": 5,
+    "shape_class": "cat",
+    "texture_class": "dog",
+    "edge_retention_ratio": 0.34170180145649676
+  },
+  {
+    "path": "/content/drive/MyDrive/atml_pa1_task1/cue_conflicts/dog_shape__cat_texture__0022.png",
+    "content_path": "/content/drive/MyDrive/atml_pa1_task1/cue_conflicts/dog_shape__cat_texture__0022_content.png",
+    "shape_label": 5,
+    "texture_label": 3,
+    "shape_class": "dog",
+    "texture_class": "cat",
+    "edge_retention_ratio": 0.6462785556374355
+  },
+  {
+    "path": "/content/drive/MyDrive/atml_pa1_task1/cue_conflicts/dog_shape__cat_texture__0023.png",
+    "content_path": "/content/drive/MyDrive/atml_pa1_task1/cue_conflicts/dog_shape__cat_texture__0023_content.png",
+    "shape_label": 5,
+    "texture_label": 3,
+    "shape_class": "dog",
+    "texture_class": "cat",
+    "edge_retention_ratio": 0.6193129062209842
+  },
+  {
+    "path": "/content/drive/MyDrive/atml_pa1_task1/cue_conflicts/dog_shape__cat_texture__0024.png",
+    "content_path": "/content/drive/MyDrive/atml_pa1_task1/cue_conflicts/dog_shape__cat_texture__0024_content.png",
+    "shape_label": 5,
+    "texture_label": 3,
+    "shape_class": "dog",
+    "texture_class": "cat",
+    "edge_retention_ratio": 0.7162676822633297
+  },
+  {
+    "path": "/content/drive/MyDrive/atml_pa1_task1/cue_conflicts/dog_shape__cat_texture__0025.png",
+    "content_path": "/content/drive/MyDrive/atml_pa1_task1/cue_conflicts/dog_shape__cat_texture__0025_content.png",
+    "shape_label": 5,
+    "texture_label": 3,
+    "shape_class": "dog",
+    "texture_class": "cat",
+    "edge_retention_ratio": 0.6454142516195022
+  },
+  {
+    "path": "/content/drive/MyDrive/atml_pa1_task1/cue_conflicts/dog_shape__cat_texture__0026.png",
+    "content_path": "/content/drive/MyDrive/atml_pa1_task1/cue_conflicts/dog_shape__cat_texture__0026_content.png",
+    "shape_label": 5,
+    "texture_label": 3,
+    "shape_class": "dog",
+    "texture_class": "cat",
+    "edge_retention_ratio": 0.5708994708994709
+  },
+  {
+    "path": "/content/drive/MyDrive/atml_pa1_task1/cue_conflicts/dog_shape__cat_texture__0027.png",
+    "content_path": "/content/drive/MyDrive/atml_pa1_task1/cue_conflicts/dog_shape__cat_texture__0027_content.png",
+    "shape_label": 5,
+    "texture_label": 3,
+    "shape_class": "dog",
+    "texture_class": "cat",
+    "edge_retention_ratio": 0.414969450101833
+  },
+  {
+    "path": "/content/drive/MyDrive/atml_pa1_task1/cue_conflicts/dog_shape__cat_texture__0028.png",
+    "content_path": "/content/drive/MyDrive/atml_pa1_task1/cue_conflicts/dog_shape__cat_texture__0028_content.png",
+    "shape_label": 5,
+    "texture_label": 3,
+    "shape_class": "dog",
+    "texture_class": "cat",
+    "edge_retention_ratio": 0.3408279800142755
+  },
+  {
+    "path": "/content/drive/MyDrive/atml_pa1_task1/cue_conflicts/dog_shape__cat_texture__0029.png",
+    "content_path": "/content/drive/MyDrive/atml_pa1_task1/cue_conflicts/dog_shape__cat_texture__0029_content.png",
+    "shape_label": 5,
+    "texture_label": 3,
+    "shape_class": "dog",
+    "texture_class": "cat",
+    "edge_retention_ratio": 0.6189315007758812
+  },
+  {
+    "path": "/content/drive/MyDrive/atml_pa1_task1/cue_conflicts/dog_shape__cat_texture__0030.png",
+    "content_path": "/content/drive/MyDrive/atml_pa1_task1/cue_conflicts/dog_shape__cat_texture__0030_content.png",
+    "shape_label": 5,
+    "texture_label": 3,
+    "shape_class": "dog",
+    "texture_class": "cat",
+    "edge_retention_ratio": 0.5226273597103698
+  },
+  {
+    "path": "/content/drive/MyDrive/atml_pa1_task1/cue_conflicts/dog_shape__cat_texture__0031.png",
+    "content_path": "/content/drive/MyDrive/atml_pa1_task1/cue_conflicts/dog_shape__cat_texture__0031_content.png",
+    "shape_label": 5,
+    "texture_label": 3,
+    "shape_class": "dog",
+    "texture_class": "cat",
+    "edge_retention_ratio": 0.7824675324675324
+  },
+  {
+    "path": "/content/drive/MyDrive/atml_pa1_task1/cue_conflicts/dog_shape__cat_texture__0032.png",
+    "content_path": "/content/drive/MyDrive/atml_pa1_task1/cue_conflicts/dog_shape__cat_texture__0032_content.png",
+    "shape_label": 5,
+    "texture_label": 3,
+    "shape_class": "dog",
+    "texture_class": "cat",
+    "edge_retention_ratio": 0.7495192307692308
+  },
+  {
+    "path": "/content/drive/MyDrive/atml_pa1_task1/cue_conflicts/dog_shape__cat_texture__0033.png",
+    "content_path": "/content/drive/MyDrive/atml_pa1_task1/cue_conflicts/dog_shape__cat_texture__0033_content.png",
+    "shape_label": 5,
+    "texture_label": 3,
+    "shape_class": "dog",
+    "texture_class": "cat",
+    "edge_retention_ratio": 0.8511837655016911
+  },
+  {
+    "path": "/content/drive/MyDrive/atml_pa1_task1/cue_conflicts/dog_shape__cat_texture__0034.png",
+    "content_path": "/content/drive/MyDrive/atml_pa1_task1/cue_conflicts/dog_shape__cat_texture__0034_content.png",
+    "shape_label": 5,
+    "texture_label": 3,
+    "shape_class": "dog",
+    "texture_class": "cat",
+    "edge_retention_ratio": 0.7315904139433551
+  },
+  {
+    "path": "/content/drive/MyDrive/atml_pa1_task1/cue_conflicts/dog_shape__cat_texture__0035.png",
+    "content_path": "/content/drive/MyDrive/atml_pa1_task1/cue_conflicts/dog_shape__cat_texture__0035_content.png",
+    "shape_label": 5,
+    "texture_label": 3,
+    "shape_class": "dog",
+    "texture_class": "cat",
+    "edge_retention_ratio": 0.4254961318533468
+  },
+  {
+    "path": "/content/drive/MyDrive/atml_pa1_task1/cue_conflicts/dog_shape__cat_texture__0036.png",
+    "content_path": "/content/drive/MyDrive/atml_pa1_task1/cue_conflicts/dog_shape__cat_texture__0036_content.png",
+    "shape_label": 5,
+    "texture_label": 3,
+    "shape_class": "dog",
+    "texture_class": "cat",
+    "edge_retention_ratio": 0.403003003003003
+  },
+  {
+    "path": "/content/drive/MyDrive/atml_pa1_task1/cue_conflicts/dog_shape__cat_texture__0037.png",
+    "content_path": "/content/drive/MyDrive/atml_pa1_task1/cue_conflicts/dog_shape__cat_texture__0037_content.png",
+    "shape_label": 5,
+    "texture_label": 3,
+    "shape_class": "dog",
+    "texture_class": "cat",
+    "edge_retention_ratio": 0.5676537585421413
+  },
+  {
+    "path": "/content/drive/MyDrive/atml_pa1_task1/cue_conflicts/dog_shape__cat_texture__0038.png",
+    "content_path": "/content/drive/MyDrive/atml_pa1_task1/cue_conflicts/dog_shape__cat_texture__0038_content.png",
+    "shape_label": 5,
+    "texture_label": 3,
+    "shape_class": "dog",
+    "texture_class": "cat",
+    "edge_retention_ratio": 0.475
+  },
+  {
+    "path": "/content/drive/MyDrive/atml_pa1_task1/cue_conflicts/dog_shape__cat_texture__0039.png",
+    "content_path": "/content/drive/MyDrive/atml_pa1_task1/cue_conflicts/dog_shape__cat_texture__0039_content.png",
+    "shape_label": 5,
+    "texture_label": 3,
+    "shape_class": "dog",
+    "texture_class": "cat",
+    "edge_retention_ratio": 0.844059405940594
+  },
+  {
+    "path": "/content/drive/MyDrive/atml_pa1_task1/cue_conflicts/dog_shape__cat_texture__0040.png",
+    "content_path": "/content/drive/MyDrive/atml_pa1_task1/cue_conflicts/dog_shape__cat_texture__0040_content.png",
+    "shape_label": 5,
+    "texture_label": 3,
+    "shape_class": "dog",
+    "texture_class": "cat",
+    "edge_retention_ratio": 0.4571078431372549
+  },
+  {
+    "path": "/content/drive/MyDrive/atml_pa1_task1/cue_conflicts/dog_shape__cat_texture__0041.png",
+    "content_path": "/content/drive/MyDrive/atml_pa1_task1/cue_conflicts/dog_shape__cat_texture__0041_content.png",
+    "shape_label": 5,
+    "texture_label": 3,
+    "shape_class": "dog",
+    "texture_class": "cat",
+    "edge_retention_ratio": 0.4898837709857942
+  },
+  {
+    "path": "/content/drive/MyDrive/atml_pa1_task1/cue_conflicts/dog_shape__cat_texture__0042.png",
+    "content_path": "/content/drive/MyDrive/atml_pa1_task1/cue_conflicts/dog_shape__cat_texture__0042_content.png",
+    "shape_label": 5,
+    "texture_label": 3,
+    "shape_class": "dog",
+    "texture_class": "cat",
+    "edge_retention_ratio": 0.6349079263410728
+  },
+  {
+    "path": "/content/drive/MyDrive/atml_pa1_task1/cue_conflicts/dog_shape__cat_texture__0043.png",
+    "content_path": "/content/drive/MyDrive/atml_pa1_task1/cue_conflicts/dog_shape__cat_texture__0043_content.png",
+    "shape_label": 5,
+    "texture_label": 3,
+    "shape_class": "dog",
+    "texture_class": "cat",
+    "edge_retention_ratio": 0.46948561464690497
+  },
+  {
+    "path": "/content/drive/MyDrive/atml_pa1_task1/cue_conflicts/horse_shape__deer_texture__0044.png",
+    "content_path": "/content/drive/MyDrive/atml_pa1_task1/cue_conflicts/horse_shape__deer_texture__0044_content.png",
+    "shape_label": 6,
+    "texture_label": 4,
+    "shape_class": "horse",
+    "texture_class": "deer",
+    "edge_retention_ratio": 0.4937643166200051
+  },
+  {
+    "path": "/content/drive/MyDrive/atml_pa1_task1/cue_conflicts/horse_shape__deer_texture__0045.png",
+    "content_path": "/content/drive/MyDrive/atml_pa1_task1/cue_conflicts/horse_shape__deer_texture__0045_content.png",
+    "shape_label": 6,
+    "texture_label": 4,
+    "shape_class": "horse",
+    "texture_class": "deer",
+    "edge_retention_ratio": 0.7961416642672041
+  },
+  {
+    "path": "/content/drive/MyDrive/atml_pa1_task1/cue_conflicts/horse_shape__deer_texture__0046.png",
+    "content_path": "/content/drive/MyDrive/atml_pa1_task1/cue_conflicts/horse_shape__deer_texture__0046_content.png",
+    "shape_label": 6,
+    "texture_label": 4,
+    "shape_class": "horse",
+    "texture_class": "deer",
+    "edge_retention_ratio": 0.7071283095723014
+  },
+  {
+    "path": "/content/drive/MyDrive/atml_pa1_task1/cue_conflicts/horse_shape__deer_texture__0047.png",
+    "content_path": "/content/drive/MyDrive/atml_pa1_task1/cue_conflicts/horse_shape__deer_texture__0047_content.png",
+    "shape_label": 6,
+    "texture_label": 4,
+    "shape_class": "horse",
+    "texture_class": "deer",
+    "edge_retention_ratio": 0.7205827418752335
+  },
+  {
+    "path": "/content/drive/MyDrive/atml_pa1_task1/cue_conflicts/horse_shape__deer_texture__0048.png",
+    "content_path": "/content/drive/MyDrive/atml_pa1_task1/cue_conflicts/horse_shape__deer_texture__0048_content.png",
+    "shape_label": 6,
+    "texture_label": 4,
+    "shape_class": "horse",
+    "texture_class": "deer",
+    "edge_retention_ratio": 0.5195347450044736
+  },
+  {
+    "path": "/content/drive/MyDrive/atml_pa1_task1/cue_conflicts/horse_shape__deer_texture__0049.png",
+    "content_path": "/content/drive/MyDrive/atml_pa1_task1/cue_conflicts/horse_shape__deer_texture__0049_content.png",
+    "shape_label": 6,
+    "texture_label": 4,
+    "shape_class": "horse",
+    "texture_class": "deer",
+    "edge_retention_ratio": 0.5830849478390462
+  },
+  {
+    "path": "/content/drive/MyDrive/atml_pa1_task1/cue_conflicts/horse_shape__deer_texture__0050.png",
+    "content_path": "/content/drive/MyDrive/atml_pa1_task1/cue_conflicts/horse_shape__deer_texture__0050_content.png",
+    "shape_label": 6,
+    "texture_label": 4,
+    "shape_class": "horse",
+    "texture_class": "deer",
+    "edge_retention_ratio": 0.6332665330661322
+  },
+  {
+    "path": "/content/drive/MyDrive/atml_pa1_task1/cue_conflicts/horse_shape__deer_texture__0051.png",
+    "content_path": "/content/drive/MyDrive/atml_pa1_task1/cue_conflicts/horse_shape__deer_texture__0051_content.png",
+    "shape_label": 6,
+    "texture_label": 4,
+    "shape_class": "horse",
+    "texture_class": "deer",
+    "edge_retention_ratio": 0.8292539074019464
+  },
+  {
+    "path": "/content/drive/MyDrive/atml_pa1_task1/cue_conflicts/horse_shape__deer_texture__0052.png",
+    "content_path": "/content/drive/MyDrive/atml_pa1_task1/cue_conflicts/horse_shape__deer_texture__0052_content.png",
+    "shape_label": 6,
+    "texture_label": 4,
+    "shape_class": "horse",
+    "texture_class": "deer",
+    "edge_retention_ratio": 0.36288
+  },
+  {
+    "path": "/content/drive/MyDrive/atml_pa1_task1/cue_conflicts/horse_shape__deer_texture__0053.png",
+    "content_path": "/content/drive/MyDrive/atml_pa1_task1/cue_conflicts/horse_shape__deer_texture__0053_content.png",
+    "shape_label": 6,
+    "texture_label": 4,
+    "shape_class": "horse",
+    "texture_class": "deer",
+    "edge_retention_ratio": 0.5151953690303908
+  },
+  {
+    "path": "/content/drive/MyDrive/atml_pa1_task1/cue_conflicts/horse_shape__deer_texture__0054.png",
+    "content_path": "/content/drive/MyDrive/atml_pa1_task1/cue_conflicts/horse_shape__deer_texture__0054_content.png",
+    "shape_label": 6,
+    "texture_label": 4,
+    "shape_class": "horse",
+    "texture_class": "deer",
+    "edge_retention_ratio": 0.8594924812030075
+  },
+  {
+    "path": "/content/drive/MyDrive/atml_pa1_task1/cue_conflicts/horse_shape__deer_texture__0055.png",
+    "content_path": "/content/drive/MyDrive/atml_pa1_task1/cue_conflicts/horse_shape__deer_texture__0055_content.png",
+    "shape_label": 6,
+    "texture_label": 4,
+    "shape_class": "horse",
+    "texture_class": "deer",
+    "edge_retention_ratio": 0.5563218390804597
+  },
+  {
+    "path": "/content/drive/MyDrive/atml_pa1_task1/cue_conflicts/horse_shape__deer_texture__0056.png",
+    "content_path": "/content/drive/MyDrive/atml_pa1_task1/cue_conflicts/horse_shape__deer_texture__0056_content.png",
+    "shape_label": 6,
+    "texture_label": 4,
+    "shape_class": "horse",
+    "texture_class": "deer",
+    "edge_retention_ratio": 0.6562067374250116
+  },
+  {
+    "path": "/content/drive/MyDrive/atml_pa1_task1/cue_conflicts/horse_shape__deer_texture__0057.png",
+    "content_path": "/content/drive/MyDrive/atml_pa1_task1/cue_conflicts/horse_shape__deer_texture__0057_content.png",
+    "shape_label": 6,
+    "texture_label": 4,
+    "shape_class": "horse",
+    "texture_class": "deer",
+    "edge_retention_ratio": 0.49732620320855614
+  },
+  {
+    "path": "/content/drive/MyDrive/atml_pa1_task1/cue_conflicts/horse_shape__deer_texture__0058.png",
+    "content_path": "/content/drive/MyDrive/atml_pa1_task1/cue_conflicts/horse_shape__deer_texture__0058_content.png",
+    "shape_label": 6,
+    "texture_label": 4,
+    "shape_class": "horse",
+    "texture_class": "deer",
+    "edge_retention_ratio": 0.48254670599803345
+  },
+  {
+    "path": "/content/drive/MyDrive/atml_pa1_task1/cue_conflicts/horse_shape__deer_texture__0059.png",
+    "content_path": "/content/drive/MyDrive/atml_pa1_task1/cue_conflicts/horse_shape__deer_texture__0059_content.png",
+    "shape_label": 6,
+    "texture_label": 4,
+    "shape_class": "horse",
+    "texture_class": "deer",
+    "edge_retention_ratio": 0.4379746835443038
+  },
+  {
+    "path": "/content/drive/MyDrive/atml_pa1_task1/cue_conflicts/horse_shape__deer_texture__0060.png",
+    "content_path": "/content/drive/MyDrive/atml_pa1_task1/cue_conflicts/horse_shape__deer_texture__0060_content.png",
+    "shape_label": 6,
+    "texture_label": 4,
+    "shape_class": "horse",
+    "texture_class": "deer",
+    "edge_retention_ratio": 0.6100846805234796
+  },
+  {
+    "path": "/content/drive/MyDrive/atml_pa1_task1/cue_conflicts/horse_shape__deer_texture__0061.png",
+    "content_path": "/content/drive/MyDrive/atml_pa1_task1/cue_conflicts/horse_shape__deer_texture__0061_content.png",
+    "shape_label": 6,
+    "texture_label": 4,
+    "shape_class": "horse",
+    "texture_class": "deer",
+    "edge_retention_ratio": 0.7183449651046859
+  },
+  {
+    "path": "/content/drive/MyDrive/atml_pa1_task1/cue_conflicts/horse_shape__deer_texture__0062.png",
+    "content_path": "/content/drive/MyDrive/atml_pa1_task1/cue_conflicts/horse_shape__deer_texture__0062_content.png",
+    "shape_label": 6,
+    "texture_label": 4,
+    "shape_class": "horse",
+    "texture_class": "deer",
+    "edge_retention_ratio": 0.7479240806642942
+  },
+  {
+    "path": "/content/drive/MyDrive/atml_pa1_task1/cue_conflicts/horse_shape__deer_texture__0063.png",
+    "content_path": "/content/drive/MyDrive/atml_pa1_task1/cue_conflicts/horse_shape__deer_texture__0063_content.png",
+    "shape_label": 6,
+    "texture_label": 4,
+    "shape_class": "horse",
+    "texture_class": "deer",
+    "edge_retention_ratio": 0.47341772151898737
+  },
+  {
+    "path": "/content/drive/MyDrive/atml_pa1_task1/cue_conflicts/horse_shape__deer_texture__0064.png",
+    "content_path": "/content/drive/MyDrive/atml_pa1_task1/cue_conflicts/horse_shape__deer_texture__0064_content.png",
+    "shape_label": 6,
+    "texture_label": 4,
+    "shape_class": "horse",
+    "texture_class": "deer",
+    "edge_retention_ratio": 0.7029188324670131
+  },
+  {
+    "path": "/content/drive/MyDrive/atml_pa1_task1/cue_conflicts/horse_shape__deer_texture__0065.png",
+    "content_path": "/content/drive/MyDrive/atml_pa1_task1/cue_conflicts/horse_shape__deer_texture__0065_content.png",
+    "shape_label": 6,
+    "texture_label": 4,
+    "shape_class": "horse",
+    "texture_class": "deer",
+    "edge_retention_ratio": 0.8235653235653235
+  },
+  {
+    "path": "/content/drive/MyDrive/atml_pa1_task1/cue_conflicts/deer_shape__horse_texture__0066.png",
+    "content_path": "/content/drive/MyDrive/atml_pa1_task1/cue_conflicts/deer_shape__horse_texture__0066_content.png",
+    "shape_label": 4,
+    "texture_label": 6,
+    "shape_class": "deer",
+    "texture_class": "horse",
+    "edge_retention_ratio": 0.6972132904608789
+  },
+  {
+    "path": "/content/drive/MyDrive/atml_pa1_task1/cue_conflicts/deer_shape__horse_texture__0067.png",
+    "content_path": "/content/drive/MyDrive/atml_pa1_task1/cue_conflicts/deer_shape__horse_texture__0067_content.png",
+    "shape_label": 4,
+    "texture_label": 6,
+    "shape_class": "deer",
+    "texture_class": "horse",
+    "edge_retention_ratio": 0.3806834227619317
+  },
+  {
+    "path": "/content/drive/MyDrive/atml_pa1_task1/cue_conflicts/deer_shape__horse_texture__0068.png",
+    "content_path": "/content/drive/MyDrive/atml_pa1_task1/cue_conflicts/deer_shape__horse_texture__0068_content.png",
+    "shape_label": 4,
+    "texture_label": 6,
+    "shape_class": "deer",
+    "texture_class": "horse",
+    "edge_retention_ratio": 0.6079708257358687
+  },
+  {
+    "path": "/content/drive/MyDrive/atml_pa1_task1/cue_conflicts/deer_shape__horse_texture__0069.png",
+    "content_path": "/content/drive/MyDrive/atml_pa1_task1/cue_conflicts/deer_shape__horse_texture__0069_content.png",
+    "shape_label": 4,
+    "texture_label": 6,
+    "shape_class": "deer",
+    "texture_class": "horse",
+    "edge_retention_ratio": 0.5605900948366702
+  },
+  {
+    "path": "/content/drive/MyDrive/atml_pa1_task1/cue_conflicts/deer_shape__horse_texture__0070.png",
+    "content_path": "/content/drive/MyDrive/atml_pa1_task1/cue_conflicts/deer_shape__horse_texture__0070_content.png",
+    "shape_label": 4,
+    "texture_label": 6,
+    "shape_class": "deer",
+    "texture_class": "horse",
+    "edge_retention_ratio": 0.40433053468846664
+  },
+  {
+    "path": "/content/drive/MyDrive/atml_pa1_task1/cue_conflicts/deer_shape__horse_texture__0071.png",
+    "content_path": "/content/drive/MyDrive/atml_pa1_task1/cue_conflicts/deer_shape__horse_texture__0071_content.png",
+    "shape_label": 4,
+    "texture_label": 6,
+    "shape_class": "deer",
+    "texture_class": "horse",
+    "edge_retention_ratio": 0.6988893459481694
+  },
+  {
+    "path": "/content/drive/MyDrive/atml_pa1_task1/cue_conflicts/deer_shape__horse_texture__0072.png",
+    "content_path": "/content/drive/MyDrive/atml_pa1_task1/cue_conflicts/deer_shape__horse_texture__0072_content.png",
+    "shape_label": 4,
+    "texture_label": 6,
+    "shape_class": "deer",
+    "texture_class": "horse",
+    "edge_retention_ratio": 0.38996454867739294
+  },
+  {
+    "path": "/content/drive/MyDrive/atml_pa1_task1/cue_conflicts/deer_shape__horse_texture__0073.png",
+    "content_path": "/content/drive/MyDrive/atml_pa1_task1/cue_conflicts/deer_shape__horse_texture__0073_content.png",
+    "shape_label": 4,
+    "texture_label": 6,
+    "shape_class": "deer",
+    "texture_class": "horse",
+    "edge_retention_ratio": 0.5226480836236934
+  },
+  {
+    "path": "/content/drive/MyDrive/atml_pa1_task1/cue_conflicts/deer_shape__horse_texture__0074.png",
+    "content_path": "/content/drive/MyDrive/atml_pa1_task1/cue_conflicts/deer_shape__horse_texture__0074_content.png",
+    "shape_label": 4,
+    "texture_label": 6,
+    "shape_class": "deer",
+    "texture_class": "horse",
+    "edge_retention_ratio": 0.3464180569185476
+  },
+  {
+    "path": "/content/drive/MyDrive/atml_pa1_task1/cue_conflicts/deer_shape__horse_texture__0075.png",
+    "content_path": "/content/drive/MyDrive/atml_pa1_task1/cue_conflicts/deer_shape__horse_texture__0075_content.png",
+    "shape_label": 4,
+    "texture_label": 6,
+    "shape_class": "deer",
+    "texture_class": "horse",
+    "edge_retention_ratio": 0.3032561788936838
+  },
+  {
+    "path": "/content/drive/MyDrive/atml_pa1_task1/cue_conflicts/deer_shape__horse_texture__0076.png",
+    "content_path": "/content/drive/MyDrive/atml_pa1_task1/cue_conflicts/deer_shape__horse_texture__0076_content.png",
+    "shape_label": 4,
+    "texture_label": 6,
+    "shape_class": "deer",
+    "texture_class": "horse",
+    "edge_retention_ratio": 0.4370067231803566
+  },
+  {
+    "path": "/content/drive/MyDrive/atml_pa1_task1/cue_conflicts/deer_shape__horse_texture__0077.png",
+    "content_path": "/content/drive/MyDrive/atml_pa1_task1/cue_conflicts/deer_shape__horse_texture__0077_content.png",
+    "shape_label": 4,
+    "texture_label": 6,
+    "shape_class": "deer",
+    "texture_class": "horse",
+    "edge_retention_ratio": 0.5454545454545454
+  },
+  {
+    "path": "/content/drive/MyDrive/atml_pa1_task1/cue_conflicts/deer_shape__horse_texture__0078.png",
+    "content_path": "/content/drive/MyDrive/atml_pa1_task1/cue_conflicts/deer_shape__horse_texture__0078_content.png",
+    "shape_label": 4,
+    "texture_label": 6,
+    "shape_class": "deer",
+    "texture_class": "horse",
+    "edge_retention_ratio": 0.31734394637620444
+  },
+  {
+    "path": "/content/drive/MyDrive/atml_pa1_task1/cue_conflicts/deer_shape__horse_texture__0079.png",
+    "content_path": "/content/drive/MyDrive/atml_pa1_task1/cue_conflicts/deer_shape__horse_texture__0079_content.png",
+    "shape_label": 4,
+    "texture_label": 6,
+    "shape_class": "deer",
+    "texture_class": "horse",
+    "edge_retention_ratio": 0.5477755308392316
+  },
+  {
+    "path": "/content/drive/MyDrive/atml_pa1_task1/cue_conflicts/deer_shape__horse_texture__0080.png",
+    "content_path": "/content/drive/MyDrive/atml_pa1_task1/cue_conflicts/deer_shape__horse_texture__0080_content.png",
+    "shape_label": 4,
+    "texture_label": 6,
+    "shape_class": "deer",
+    "texture_class": "horse",
+    "edge_retention_ratio": 0.49517097363612633
+  },
+  {
+    "path": "/content/drive/MyDrive/atml_pa1_task1/cue_conflicts/deer_shape__horse_texture__0081.png",
+    "content_path": "/content/drive/MyDrive/atml_pa1_task1/cue_conflicts/deer_shape__horse_texture__0081_content.png",
+    "shape_label": 4,
+    "texture_label": 6,
+    "shape_class": "deer",
+    "texture_class": "horse",
+    "edge_retention_ratio": 0.5797421731123389
+  },
+  {
+    "path": "/content/drive/MyDrive/atml_pa1_task1/cue_conflicts/deer_shape__horse_texture__0082.png",
+    "content_path": "/content/drive/MyDrive/atml_pa1_task1/cue_conflicts/deer_shape__horse_texture__0082_content.png",
+    "shape_label": 4,
+    "texture_label": 6,
+    "shape_class": "deer",
+    "texture_class": "horse",
+    "edge_retention_ratio": 0.5322626091856861
+  },
+  {
+    "path": "/content/drive/MyDrive/atml_pa1_task1/cue_conflicts/deer_shape__horse_texture__0083.png",
+    "content_path": "/content/drive/MyDrive/atml_pa1_task1/cue_conflicts/deer_shape__horse_texture__0083_content.png",
+    "shape_label": 4,
+    "texture_label": 6,
+    "shape_class": "deer",
+    "texture_class": "horse",
+    "edge_retention_ratio": 0.5651803464924737
+  },
+  {
+    "path": "/content/drive/MyDrive/atml_pa1_task1/cue_conflicts/deer_shape__horse_texture__0084.png",
+    "content_path": "/content/drive/MyDrive/atml_pa1_task1/cue_conflicts/deer_shape__horse_texture__0084_content.png",
+    "shape_label": 4,
+    "texture_label": 6,
+    "shape_class": "deer",
+    "texture_class": "horse",
+    "edge_retention_ratio": 0.3995236032914682
+  },
+  {
+    "path": "/content/drive/MyDrive/atml_pa1_task1/cue_conflicts/deer_shape__horse_texture__0085.png",
+    "content_path": "/content/drive/MyDrive/atml_pa1_task1/cue_conflicts/deer_shape__horse_texture__0085_content.png",
+    "shape_label": 4,
+    "texture_label": 6,
+    "shape_class": "deer",
+    "texture_class": "horse",
+    "edge_retention_ratio": 0.8766233766233766
+  },
+  {
+    "path": "/content/drive/MyDrive/atml_pa1_task1/cue_conflicts/deer_shape__horse_texture__0086.png",
+    "content_path": "/content/drive/MyDrive/atml_pa1_task1/cue_conflicts/deer_shape__horse_texture__0086_content.png",
+    "shape_label": 4,
+    "texture_label": 6,
+    "shape_class": "deer",
+    "texture_class": "horse",
+    "edge_retention_ratio": 0.38303233935321296
+  },
+  {
+    "path": "/content/drive/MyDrive/atml_pa1_task1/cue_conflicts/deer_shape__horse_texture__0087.png",
+    "content_path": "/content/drive/MyDrive/atml_pa1_task1/cue_conflicts/deer_shape__horse_texture__0087_content.png",
+    "shape_label": 4,
+    "texture_label": 6,
+    "shape_class": "deer",
+    "texture_class": "horse",
+    "edge_retention_ratio": 0.5319031903190319
+  },
+  {
+    "path": "/content/drive/MyDrive/atml_pa1_task1/cue_conflicts/car_shape__truck_texture__0088.png",
+    "content_path": "/content/drive/MyDrive/atml_pa1_task1/cue_conflicts/car_shape__truck_texture__0088_content.png",
+    "shape_label": 2,
+    "texture_label": 9,
+    "shape_class": "car",
+    "texture_class": "truck",
+    "edge_retention_ratio": 0.4519408502772643
+  },
+  {
+    "path": "/content/drive/MyDrive/atml_pa1_task1/cue_conflicts/car_shape__truck_texture__0089.png",
+    "content_path": "/content/drive/MyDrive/atml_pa1_task1/cue_conflicts/car_shape__truck_texture__0089_content.png",
+    "shape_label": 2,
+    "texture_label": 9,
+    "shape_class": "car",
+    "texture_class": "truck",
+    "edge_retention_ratio": 0.7052689352360044
+  },
+  {
+    "path": "/content/drive/MyDrive/atml_pa1_task1/cue_conflicts/car_shape__truck_texture__0090.png",
+    "content_path": "/content/drive/MyDrive/atml_pa1_task1/cue_conflicts/car_shape__truck_texture__0090_content.png",
+    "shape_label": 2,
+    "texture_label": 9,
+    "shape_class": "car",
+    "texture_class": "truck",
+    "edge_retention_ratio": 0.6764561918746941
+  },
+  {
+    "path": "/content/drive/MyDrive/atml_pa1_task1/cue_conflicts/car_shape__truck_texture__0091.png",
+    "content_path": "/content/drive/MyDrive/atml_pa1_task1/cue_conflicts/car_shape__truck_texture__0091_content.png",
+    "shape_label": 2,
+    "texture_label": 9,
+    "shape_class": "car",
+    "texture_class": "truck",
+    "edge_retention_ratio": 0.35360094451003543
+  },
+  {
+    "path": "/content/drive/MyDrive/atml_pa1_task1/cue_conflicts/car_shape__truck_texture__0092.png",
+    "content_path": "/content/drive/MyDrive/atml_pa1_task1/cue_conflicts/car_shape__truck_texture__0092_content.png",
+    "shape_label": 2,
+    "texture_label": 9,
+    "shape_class": "car",
+    "texture_class": "truck",
+    "edge_retention_ratio": 0.5355979525360632
+  },
+  {
+    "path": "/content/drive/MyDrive/atml_pa1_task1/cue_conflicts/car_shape__truck_texture__0093.png",
+    "content_path": "/content/drive/MyDrive/atml_pa1_task1/cue_conflicts/car_shape__truck_texture__0093_content.png",
+    "shape_label": 2,
+    "texture_label": 9,
+    "shape_class": "car",
+    "texture_class": "truck",
+    "edge_retention_ratio": 0.3986796785304248
+  },
+  {
+    "path": "/content/drive/MyDrive/atml_pa1_task1/cue_conflicts/car_shape__truck_texture__0094.png",
+    "content_path": "/content/drive/MyDrive/atml_pa1_task1/cue_conflicts/car_shape__truck_texture__0094_content.png",
+    "shape_label": 2,
+    "texture_label": 9,
+    "shape_class": "car",
+    "texture_class": "truck",
+    "edge_retention_ratio": 0.5414872798434442
+  },
+  {
+    "path": "/content/drive/MyDrive/atml_pa1_task1/cue_conflicts/car_shape__truck_texture__0095.png",
+    "content_path": "/content/drive/MyDrive/atml_pa1_task1/cue_conflicts/car_shape__truck_texture__0095_content.png",
+    "shape_label": 2,
+    "texture_label": 9,
+    "shape_class": "car",
+    "texture_class": "truck",
+    "edge_retention_ratio": 0.37198335644937586
+  },
+  {
+    "path": "/content/drive/MyDrive/atml_pa1_task1/cue_conflicts/car_shape__truck_texture__0096.png",
+    "content_path": "/content/drive/MyDrive/atml_pa1_task1/cue_conflicts/car_shape__truck_texture__0096_content.png",
+    "shape_label": 2,
+    "texture_label": 9,
+    "shape_class": "car",
+    "texture_class": "truck",
+    "edge_retention_ratio": 0.3964849568066726
+  },
+  {
+    "path": "/content/drive/MyDrive/atml_pa1_task1/cue_conflicts/car_shape__truck_texture__0097.png",
+    "content_path": "/content/drive/MyDrive/atml_pa1_task1/cue_conflicts/car_shape__truck_texture__0097_content.png",
+    "shape_label": 2,
+    "texture_label": 9,
+    "shape_class": "car",
+    "texture_class": "truck",
+    "edge_retention_ratio": 0.7209786569495055
+  },
+  {
+    "path": "/content/drive/MyDrive/atml_pa1_task1/cue_conflicts/car_shape__truck_texture__0098.png",
+    "content_path": "/content/drive/MyDrive/atml_pa1_task1/cue_conflicts/car_shape__truck_texture__0098_content.png",
+    "shape_label": 2,
+    "texture_label": 9,
+    "shape_class": "car",
+    "texture_class": "truck",
+    "edge_retention_ratio": 0.6766467065868264
+  },
+  {
+    "path": "/content/drive/MyDrive/atml_pa1_task1/cue_conflicts/car_shape__truck_texture__0099.png",
+    "content_path": "/content/drive/MyDrive/atml_pa1_task1/cue_conflicts/car_shape__truck_texture__0099_content.png",
+    "shape_label": 2,
+    "texture_label": 9,
+    "shape_class": "car",
+    "texture_class": "truck",
+    "edge_retention_ratio": 0.4452309325783047
+  },
+  {
+    "path": "/content/drive/MyDrive/atml_pa1_task1/cue_conflicts/car_shape__truck_texture__0100.png",
+    "content_path": "/content/drive/MyDrive/atml_pa1_task1/cue_conflicts/car_shape__truck_texture__0100_content.png",
+    "shape_label": 2,
+    "texture_label": 9,
+    "shape_class": "car",
+    "texture_class": "truck",
+    "edge_retention_ratio": 0.7079482439926063
+  },
+  {
+    "path": "/content/drive/MyDrive/atml_pa1_task1/cue_conflicts/car_shape__truck_texture__0101.png",
+    "content_path": "/content/drive/MyDrive/atml_pa1_task1/cue_conflicts/car_shape__truck_texture__0101_content.png",
+    "shape_label": 2,
+    "texture_label": 9,
+    "shape_class": "car",
+    "texture_class": "truck",
+    "edge_retention_ratio": 0.42387146136189746
+  },
+  {
+    "path": "/content/drive/MyDrive/atml_pa1_task1/cue_conflicts/car_shape__truck_texture__0102.png",
+    "content_path": "/content/drive/MyDrive/atml_pa1_task1/cue_conflicts/car_shape__truck_texture__0102_content.png",
+    "shape_label": 2,
+    "texture_label": 9,
+    "shape_class": "car",
+    "texture_class": "truck",
+    "edge_retention_ratio": 0.5222016651248844
+  },
+  {
+    "path": "/content/drive/MyDrive/atml_pa1_task1/cue_conflicts/car_shape__truck_texture__0103.png",
+    "content_path": "/content/drive/MyDrive/atml_pa1_task1/cue_conflicts/car_shape__truck_texture__0103_content.png",
+    "shape_label": 2,
+    "texture_label": 9,
+    "shape_class": "car",
+    "texture_class": "truck",
+    "edge_retention_ratio": 0.686060606060606
+  },
+  {
+    "path": "/content/drive/MyDrive/atml_pa1_task1/cue_conflicts/car_shape__truck_texture__0104.png",
+    "content_path": "/content/drive/MyDrive/atml_pa1_task1/cue_conflicts/car_shape__truck_texture__0104_content.png",
+    "shape_label": 2,
+    "texture_label": 9,
+    "shape_class": "car",
+    "texture_class": "truck",
+    "edge_retention_ratio": 0.561849710982659
+  },
+  {
+    "path": "/content/drive/MyDrive/atml_pa1_task1/cue_conflicts/car_shape__truck_texture__0105.png",
+    "content_path": "/content/drive/MyDrive/atml_pa1_task1/cue_conflicts/car_shape__truck_texture__0105_content.png",
+    "shape_label": 2,
+    "texture_label": 9,
+    "shape_class": "car",
+    "texture_class": "truck",
+    "edge_retention_ratio": 0.547926393847844
+  },
+  {
+    "path": "/content/drive/MyDrive/atml_pa1_task1/cue_conflicts/car_shape__truck_texture__0106.png",
+    "content_path": "/content/drive/MyDrive/atml_pa1_task1/cue_conflicts/car_shape__truck_texture__0106_content.png",
+    "shape_label": 2,
+    "texture_label": 9,
+    "shape_class": "car",
+    "texture_class": "truck",
+    "edge_retention_ratio": 0.6311760612386917
+  },
+  {
+    "path": "/content/drive/MyDrive/atml_pa1_task1/cue_conflicts/car_shape__truck_texture__0107.png",
+    "content_path": "/content/drive/MyDrive/atml_pa1_task1/cue_conflicts/car_shape__truck_texture__0107_content.png",
+    "shape_label": 2,
+    "texture_label": 9,
+    "shape_class": "car",
+    "texture_class": "truck",
+    "edge_retention_ratio": 0.5969664138678223
+  },
+  {
+    "path": "/content/drive/MyDrive/atml_pa1_task1/cue_conflicts/car_shape__truck_texture__0108.png",
+    "content_path": "/content/drive/MyDrive/atml_pa1_task1/cue_conflicts/car_shape__truck_texture__0108_content.png",
+    "shape_label": 2,
+    "texture_label": 9,
+    "shape_class": "car",
+    "texture_class": "truck",
+    "edge_retention_ratio": 0.7288617886178862
+  },
+  {
+    "path": "/content/drive/MyDrive/atml_pa1_task1/cue_conflicts/car_shape__truck_texture__0109.png",
+    "content_path": "/content/drive/MyDrive/atml_pa1_task1/cue_conflicts/car_shape__truck_texture__0109_content.png",
+    "shape_label": 2,
+    "texture_label": 9,
+    "shape_class": "car",
+    "texture_class": "truck",
+    "edge_retention_ratio": 0.5683760683760684
+  },
+  {
+    "path": "/content/drive/MyDrive/atml_pa1_task1/cue_conflicts/truck_shape__car_texture__0110.png",
+    "content_path": "/content/drive/MyDrive/atml_pa1_task1/cue_conflicts/truck_shape__car_texture__0110_content.png",
+    "shape_label": 9,
+    "texture_label": 2,
+    "shape_class": "truck",
+    "texture_class": "car",
+    "edge_retention_ratio": 0.4907113729043951
+  },
+  {
+    "path": "/content/drive/MyDrive/atml_pa1_task1/cue_conflicts/truck_shape__car_texture__0111.png",
+    "content_path": "/content/drive/MyDrive/atml_pa1_task1/cue_conflicts/truck_shape__car_texture__0111_content.png",
+    "shape_label": 9,
+    "texture_label": 2,
+    "shape_class": "truck",
+    "texture_class": "car",
+    "edge_retention_ratio": 0.5333333333333333
+  },
+  {
+    "path": "/content/drive/MyDrive/atml_pa1_task1/cue_conflicts/truck_shape__car_texture__0112.png",
+    "content_path": "/content/drive/MyDrive/atml_pa1_task1/cue_conflicts/truck_shape__car_texture__0112_content.png",
+    "shape_label": 9,
+    "texture_label": 2,
+    "shape_class": "truck",
+    "texture_class": "car",
+    "edge_retention_ratio": 0.6287458379578247
+  },
+  {
+    "path": "/content/drive/MyDrive/atml_pa1_task1/cue_conflicts/truck_shape__car_texture__0113.png",
+    "content_path": "/content/drive/MyDrive/atml_pa1_task1/cue_conflicts/truck_shape__car_texture__0113_content.png",
+    "shape_label": 9,
+    "texture_label": 2,
+    "shape_class": "truck",
+    "texture_class": "car",
+    "edge_retention_ratio": 0.5517656500802568
+  },
+  {
+    "path": "/content/drive/MyDrive/atml_pa1_task1/cue_conflicts/truck_shape__car_texture__0114.png",
+    "content_path": "/content/drive/MyDrive/atml_pa1_task1/cue_conflicts/truck_shape__car_texture__0114_content.png",
+    "shape_label": 9,
+    "texture_label": 2,
+    "shape_class": "truck",
+    "texture_class": "car",
+    "edge_retention_ratio": 0.43366065311715
+  },
+  {
+    "path": "/content/drive/MyDrive/atml_pa1_task1/cue_conflicts/truck_shape__car_texture__0115.png",
+    "content_path": "/content/drive/MyDrive/atml_pa1_task1/cue_conflicts/truck_shape__car_texture__0115_content.png",
+    "shape_label": 9,
+    "texture_label": 2,
+    "shape_class": "truck",
+    "texture_class": "car",
+    "edge_retention_ratio": 0.5720348447621175
+  },
+  {
+    "path": "/content/drive/MyDrive/atml_pa1_task1/cue_conflicts/truck_shape__car_texture__0116.png",
+    "content_path": "/content/drive/MyDrive/atml_pa1_task1/cue_conflicts/truck_shape__car_texture__0116_content.png",
+    "shape_label": 9,
+    "texture_label": 2,
+    "shape_class": "truck",
+    "texture_class": "car",
+    "edge_retention_ratio": 0.32271654870239297
+  },
+  {
+    "path": "/content/drive/MyDrive/atml_pa1_task1/cue_conflicts/truck_shape__car_texture__0117.png",
+    "content_path": "/content/drive/MyDrive/atml_pa1_task1/cue_conflicts/truck_shape__car_texture__0117_content.png",
+    "shape_label": 9,
+    "texture_label": 2,
+    "shape_class": "truck",
+    "texture_class": "car",
+    "edge_retention_ratio": 0.6784902228285584
+  },
+  {
+    "path": "/content/drive/MyDrive/atml_pa1_task1/cue_conflicts/truck_shape__car_texture__0118.png",
+    "content_path": "/content/drive/MyDrive/atml_pa1_task1/cue_conflicts/truck_shape__car_texture__0118_content.png",
+    "shape_label": 9,
+    "texture_label": 2,
+    "shape_class": "truck",
+    "texture_class": "car",
+    "edge_retention_ratio": 0.4755683302848184
+  },
+  {
+    "path": "/content/drive/MyDrive/atml_pa1_task1/cue_conflicts/truck_shape__car_texture__0119.png",
+    "content_path": "/content/drive/MyDrive/atml_pa1_task1/cue_conflicts/truck_shape__car_texture__0119_content.png",
+    "shape_label": 9,
+    "texture_label": 2,
+    "shape_class": "truck",
+    "texture_class": "car",
+    "edge_retention_ratio": 0.44777947932618684
+  },
+  {
+    "path": "/content/drive/MyDrive/atml_pa1_task1/cue_conflicts/truck_shape__car_texture__0120.png",
+    "content_path": "/content/drive/MyDrive/atml_pa1_task1/cue_conflicts/truck_shape__car_texture__0120_content.png",
+    "shape_label": 9,
+    "texture_label": 2,
+    "shape_class": "truck",
+    "texture_class": "car",
+    "edge_retention_ratio": 0.6615006150061501
+  },
+  {
+    "path": "/content/drive/MyDrive/atml_pa1_task1/cue_conflicts/truck_shape__car_texture__0121.png",
+    "content_path": "/content/drive/MyDrive/atml_pa1_task1/cue_conflicts/truck_shape__car_texture__0121_content.png",
+    "shape_label": 9,
+    "texture_label": 2,
+    "shape_class": "truck",
+    "texture_class": "car",
+    "edge_retention_ratio": 0.563114134542706
+  },
+  {
+    "path": "/content/drive/MyDrive/atml_pa1_task1/cue_conflicts/truck_shape__car_texture__0122.png",
+    "content_path": "/content/drive/MyDrive/atml_pa1_task1/cue_conflicts/truck_shape__car_texture__0122_content.png",
+    "shape_label": 9,
+    "texture_label": 2,
+    "shape_class": "truck",
+    "texture_class": "car",
+    "edge_retention_ratio": 0.4140225179119754
+  },
+  {
+    "path": "/content/drive/MyDrive/atml_pa1_task1/cue_conflicts/truck_shape__car_texture__0123.png",
+    "content_path": "/content/drive/MyDrive/atml_pa1_task1/cue_conflicts/truck_shape__car_texture__0123_content.png",
+    "shape_label": 9,
+    "texture_label": 2,
+    "shape_class": "truck",
+    "texture_class": "car",
+    "edge_retention_ratio": 0.6981263011797363
+  },
+  {
+    "path": "/content/drive/MyDrive/atml_pa1_task1/cue_conflicts/truck_shape__car_texture__0124.png",
+    "content_path": "/content/drive/MyDrive/atml_pa1_task1/cue_conflicts/truck_shape__car_texture__0124_content.png",
+    "shape_label": 9,
+    "texture_label": 2,
+    "shape_class": "truck",
+    "texture_class": "car",
+    "edge_retention_ratio": 0.7163398692810458
+  },
+  {
+    "path": "/content/drive/MyDrive/atml_pa1_task1/cue_conflicts/truck_shape__car_texture__0125.png",
+    "content_path": "/content/drive/MyDrive/atml_pa1_task1/cue_conflicts/truck_shape__car_texture__0125_content.png",
+    "shape_label": 9,
+    "texture_label": 2,
+    "shape_class": "truck",
+    "texture_class": "car",
+    "edge_retention_ratio": 0.5725977568960291
+  },
+  {
+    "path": "/content/drive/MyDrive/atml_pa1_task1/cue_conflicts/truck_shape__car_texture__0126.png",
+    "content_path": "/content/drive/MyDrive/atml_pa1_task1/cue_conflicts/truck_shape__car_texture__0126_content.png",
+    "shape_label": 9,
+    "texture_label": 2,
+    "shape_class": "truck",
+    "texture_class": "car",
+    "edge_retention_ratio": 0.6214132762312634
+  },
+  {
+    "path": "/content/drive/MyDrive/atml_pa1_task1/cue_conflicts/truck_shape__car_texture__0127.png",
+    "content_path": "/content/drive/MyDrive/atml_pa1_task1/cue_conflicts/truck_shape__car_texture__0127_content.png",
+    "shape_label": 9,
+    "texture_label": 2,
+    "shape_class": "truck",
+    "texture_class": "car",
+    "edge_retention_ratio": 0.3473102884025363
+  },
+  {
+    "path": "/content/drive/MyDrive/atml_pa1_task1/cue_conflicts/truck_shape__car_texture__0128.png",
+    "content_path": "/content/drive/MyDrive/atml_pa1_task1/cue_conflicts/truck_shape__car_texture__0128_content.png",
+    "shape_label": 9,
+    "texture_label": 2,
+    "shape_class": "truck",
+    "texture_class": "car",
+    "edge_retention_ratio": 0.7175572519083969
+  },
+  {
+    "path": "/content/drive/MyDrive/atml_pa1_task1/cue_conflicts/truck_shape__car_texture__0129.png",
+    "content_path": "/content/drive/MyDrive/atml_pa1_task1/cue_conflicts/truck_shape__car_texture__0129_content.png",
+    "shape_label": 9,
+    "texture_label": 2,
+    "shape_class": "truck",
+    "texture_class": "car",
+    "edge_retention_ratio": 0.406578592612564
+  },
+  {
+    "path": "/content/drive/MyDrive/atml_pa1_task1/cue_conflicts/truck_shape__car_texture__0130.png",
+    "content_path": "/content/drive/MyDrive/atml_pa1_task1/cue_conflicts/truck_shape__car_texture__0130_content.png",
+    "shape_label": 9,
+    "texture_label": 2,
+    "shape_class": "truck",
+    "texture_class": "car",
+    "edge_retention_ratio": 0.33237704918032784
+  },
+  {
+    "path": "/content/drive/MyDrive/atml_pa1_task1/cue_conflicts/truck_shape__car_texture__0131.png",
+    "content_path": "/content/drive/MyDrive/atml_pa1_task1/cue_conflicts/truck_shape__car_texture__0131_content.png",
+    "shape_label": 9,
+    "texture_label": 2,
+    "shape_class": "truck",
+    "texture_class": "car",
+    "edge_retention_ratio": 0.6041948579161028
+  },
+  {
+    "path": "/content/drive/MyDrive/atml_pa1_task1/cue_conflicts/bird_shape__airplane_texture__0132.png",
+    "content_path": "/content/drive/MyDrive/atml_pa1_task1/cue_conflicts/bird_shape__airplane_texture__0132_content.png",
+    "shape_label": 1,
+    "texture_label": 0,
+    "shape_class": "bird",
+    "texture_class": "airplane",
+    "edge_retention_ratio": 0.7801324503311259
+  },
+  {
+    "path": "/content/drive/MyDrive/atml_pa1_task1/cue_conflicts/bird_shape__airplane_texture__0133.png",
+    "content_path": "/content/drive/MyDrive/atml_pa1_task1/cue_conflicts/bird_shape__airplane_texture__0133_content.png",
+    "shape_label": 1,
+    "texture_label": 0,
+    "shape_class": "bird",
+    "texture_class": "airplane",
+    "edge_retention_ratio": 0.4685145317545748
+  },
+  {
+    "path": "/content/drive/MyDrive/atml_pa1_task1/cue_conflicts/bird_shape__airplane_texture__0134.png",
+    "content_path": "/content/drive/MyDrive/atml_pa1_task1/cue_conflicts/bird_shape__airplane_texture__0134_content.png",
+    "shape_label": 1,
+    "texture_label": 0,
+    "shape_class": "bird",
+    "texture_class": "airplane",
+    "edge_retention_ratio": 0.42803268384663734
+  },
+  {
+    "path": "/content/drive/MyDrive/atml_pa1_task1/cue_conflicts/bird_shape__airplane_texture__0135.png",
+    "content_path": "/content/drive/MyDrive/atml_pa1_task1/cue_conflicts/bird_shape__airplane_texture__0135_content.png",
+    "shape_label": 1,
+    "texture_label": 0,
+    "shape_class": "bird",
+    "texture_class": "airplane",
+    "edge_retention_ratio": 0.6781767955801105
+  },
+  {
+    "path": "/content/drive/MyDrive/atml_pa1_task1/cue_conflicts/bird_shape__airplane_texture__0136.png",
+    "content_path": "/content/drive/MyDrive/atml_pa1_task1/cue_conflicts/bird_shape__airplane_texture__0136_content.png",
+    "shape_label": 1,
+    "texture_label": 0,
+    "shape_class": "bird",
+    "texture_class": "airplane",
+    "edge_retention_ratio": 0.5359692476661175
+  },
+  {
+    "path": "/content/drive/MyDrive/atml_pa1_task1/cue_conflicts/bird_shape__airplane_texture__0137.png",
+    "content_path": "/content/drive/MyDrive/atml_pa1_task1/cue_conflicts/bird_shape__airplane_texture__0137_content.png",
+    "shape_label": 1,
+    "texture_label": 0,
+    "shape_class": "bird",
+    "texture_class": "airplane",
+    "edge_retention_ratio": 0.46126126126126127
+  },
+  {
+    "path": "/content/drive/MyDrive/atml_pa1_task1/cue_conflicts/bird_shape__airplane_texture__0138.png",
+    "content_path": "/content/drive/MyDrive/atml_pa1_task1/cue_conflicts/bird_shape__airplane_texture__0138_content.png",
+    "shape_label": 1,
+    "texture_label": 0,
+    "shape_class": "bird",
+    "texture_class": "airplane",
+    "edge_retention_ratio": 0.599274705349048
+  },
+  {
+    "path": "/content/drive/MyDrive/atml_pa1_task1/cue_conflicts/bird_shape__airplane_texture__0139.png",
+    "content_path": "/content/drive/MyDrive/atml_pa1_task1/cue_conflicts/bird_shape__airplane_texture__0139_content.png",
+    "shape_label": 1,
+    "texture_label": 0,
+    "shape_class": "bird",
+    "texture_class": "airplane",
+    "edge_retention_ratio": 0.3792250618301731
+  },
+  {
+    "path": "/content/drive/MyDrive/atml_pa1_task1/cue_conflicts/bird_shape__airplane_texture__0140.png",
+    "content_path": "/content/drive/MyDrive/atml_pa1_task1/cue_conflicts/bird_shape__airplane_texture__0140_content.png",
+    "shape_label": 1,
+    "texture_label": 0,
+    "shape_class": "bird",
+    "texture_class": "airplane",
+    "edge_retention_ratio": 0.4051047120418848
+  },
+  {
+    "path": "/content/drive/MyDrive/atml_pa1_task1/cue_conflicts/bird_shape__airplane_texture__0141.png",
+    "content_path": "/content/drive/MyDrive/atml_pa1_task1/cue_conflicts/bird_shape__airplane_texture__0141_content.png",
+    "shape_label": 1,
+    "texture_label": 0,
+    "shape_class": "bird",
+    "texture_class": "airplane",
+    "edge_retention_ratio": 0.47998314369995787
+  },
+  {
+    "path": "/content/drive/MyDrive/atml_pa1_task1/cue_conflicts/bird_shape__airplane_texture__0142.png",
+    "content_path": "/content/drive/MyDrive/atml_pa1_task1/cue_conflicts/bird_shape__airplane_texture__0142_content.png",
+    "shape_label": 1,
+    "texture_label": 0,
+    "shape_class": "bird",
+    "texture_class": "airplane",
+    "edge_retention_ratio": 0.6576168929110106
+  },
+  {
+    "path": "/content/drive/MyDrive/atml_pa1_task1/cue_conflicts/bird_shape__airplane_texture__0143.png",
+    "content_path": "/content/drive/MyDrive/atml_pa1_task1/cue_conflicts/bird_shape__airplane_texture__0143_content.png",
+    "shape_label": 1,
+    "texture_label": 0,
+    "shape_class": "bird",
+    "texture_class": "airplane",
+    "edge_retention_ratio": 0.7614138438880707
+  },
+  {
+    "path": "/content/drive/MyDrive/atml_pa1_task1/cue_conflicts/bird_shape__airplane_texture__0144.png",
+    "content_path": "/content/drive/MyDrive/atml_pa1_task1/cue_conflicts/bird_shape__airplane_texture__0144_content.png",
+    "shape_label": 1,
+    "texture_label": 0,
+    "shape_class": "bird",
+    "texture_class": "airplane",
+    "edge_retention_ratio": 0.5710754017305315
+  },
+  {
+    "path": "/content/drive/MyDrive/atml_pa1_task1/cue_conflicts/bird_shape__airplane_texture__0145.png",
+    "content_path": "/content/drive/MyDrive/atml_pa1_task1/cue_conflicts/bird_shape__airplane_texture__0145_content.png",
+    "shape_label": 1,
+    "texture_label": 0,
+    "shape_class": "bird",
+    "texture_class": "airplane",
+    "edge_retention_ratio": 0.3374333743337433
+  },
+  {
+    "path": "/content/drive/MyDrive/atml_pa1_task1/cue_conflicts/bird_shape__airplane_texture__0146.png",
+    "content_path": "/content/drive/MyDrive/atml_pa1_task1/cue_conflicts/bird_shape__airplane_texture__0146_content.png",
+    "shape_label": 1,
+    "texture_label": 0,
+    "shape_class": "bird",
+    "texture_class": "airplane",
+    "edge_retention_ratio": 0.7370486656200942
+  },
+  {
+    "path": "/content/drive/MyDrive/atml_pa1_task1/cue_conflicts/bird_shape__airplane_texture__0147.png",
+    "content_path": "/content/drive/MyDrive/atml_pa1_task1/cue_conflicts/bird_shape__airplane_texture__0147_content.png",
+    "shape_label": 1,
+    "texture_label": 0,
+    "shape_class": "bird",
+    "texture_class": "airplane",
+    "edge_retention_ratio": 0.4081063340991139
+  },
+  {
+    "path": "/content/drive/MyDrive/atml_pa1_task1/cue_conflicts/bird_shape__airplane_texture__0148.png",
+    "content_path": "/content/drive/MyDrive/atml_pa1_task1/cue_conflicts/bird_shape__airplane_texture__0148_content.png",
+    "shape_label": 1,
+    "texture_label": 0,
+    "shape_class": "bird",
+    "texture_class": "airplane",
+    "edge_retention_ratio": 0.6794605809128631
+  },
+  {
+    "path": "/content/drive/MyDrive/atml_pa1_task1/cue_conflicts/bird_shape__airplane_texture__0149.png",
+    "content_path": "/content/drive/MyDrive/atml_pa1_task1/cue_conflicts/bird_shape__airplane_texture__0149_content.png",
+    "shape_label": 1,
+    "texture_label": 0,
+    "shape_class": "bird",
+    "texture_class": "airplane",
+    "edge_retention_ratio": 0.3397487844408428
+  },
+  {
+    "path": "/content/drive/MyDrive/atml_pa1_task1/cue_conflicts/bird_shape__airplane_texture__0150.png",
+    "content_path": "/content/drive/MyDrive/atml_pa1_task1/cue_conflicts/bird_shape__airplane_texture__0150_content.png",
+    "shape_label": 1,
+    "texture_label": 0,
+    "shape_class": "bird",
+    "texture_class": "airplane",
+    "edge_retention_ratio": 0.6285488958990536
+  },
+  {
+    "path": "/content/drive/MyDrive/atml_pa1_task1/cue_conflicts/bird_shape__airplane_texture__0151.png",
+    "content_path": "/content/drive/MyDrive/atml_pa1_task1/cue_conflicts/bird_shape__airplane_texture__0151_content.png",
+    "shape_label": 1,
+    "texture_label": 0,
+    "shape_class": "bird",
+    "texture_class": "airplane",
+    "edge_retention_ratio": 0.5137614678899083
+  },
+  {
+    "path": "/content/drive/MyDrive/atml_pa1_task1/cue_conflicts/bird_shape__airplane_texture__0152.png",
+    "content_path": "/content/drive/MyDrive/atml_pa1_task1/cue_conflicts/bird_shape__airplane_texture__0152_content.png",
+    "shape_label": 1,
+    "texture_label": 0,
+    "shape_class": "bird",
+    "texture_class": "airplane",
+    "edge_retention_ratio": 0.4262589928057554
+  },
+  {
+    "path": "/content/drive/MyDrive/atml_pa1_task1/cue_conflicts/bird_shape__airplane_texture__0153.png",
+    "content_path": "/content/drive/MyDrive/atml_pa1_task1/cue_conflicts/bird_shape__airplane_texture__0153_content.png",
+    "shape_label": 1,
+    "texture_label": 0,
+    "shape_class": "bird",
+    "texture_class": "airplane",
+    "edge_retention_ratio": 0.7962489343563512
+  },
+  {
+    "path": "/content/drive/MyDrive/atml_pa1_task1/cue_conflicts/airplane_shape__bird_texture__0154.png",
+    "content_path": "/content/drive/MyDrive/atml_pa1_task1/cue_conflicts/airplane_shape__bird_texture__0154_content.png",
+    "shape_label": 0,
+    "texture_label": 1,
+    "shape_class": "airplane",
+    "texture_class": "bird",
+    "edge_retention_ratio": 0.5301859799713877
+  },
+  {
+    "path": "/content/drive/MyDrive/atml_pa1_task1/cue_conflicts/airplane_shape__bird_texture__0155.png",
+    "content_path": "/content/drive/MyDrive/atml_pa1_task1/cue_conflicts/airplane_shape__bird_texture__0155_content.png",
+    "shape_label": 0,
+    "texture_label": 1,
+    "shape_class": "airplane",
+    "texture_class": "bird",
+    "edge_retention_ratio": 0.48162162162162164
+  },
+  {
+    "path": "/content/drive/MyDrive/atml_pa1_task1/cue_conflicts/airplane_shape__bird_texture__0156.png",
+    "content_path": "/content/drive/MyDrive/atml_pa1_task1/cue_conflicts/airplane_shape__bird_texture__0156_content.png",
+    "shape_label": 0,
+    "texture_label": 1,
+    "shape_class": "airplane",
+    "texture_class": "bird",
+    "edge_retention_ratio": 0.560958904109589
+  },
+  {
+    "path": "/content/drive/MyDrive/atml_pa1_task1/cue_conflicts/airplane_shape__bird_texture__0157.png",
+    "content_path": "/content/drive/MyDrive/atml_pa1_task1/cue_conflicts/airplane_shape__bird_texture__0157_content.png",
+    "shape_label": 0,
+    "texture_label": 1,
+    "shape_class": "airplane",
+    "texture_class": "bird",
+    "edge_retention_ratio": 0.45779064158224797
+  },
+  {
+    "path": "/content/drive/MyDrive/atml_pa1_task1/cue_conflicts/airplane_shape__bird_texture__0158.png",
+    "content_path": "/content/drive/MyDrive/atml_pa1_task1/cue_conflicts/airplane_shape__bird_texture__0158_content.png",
+    "shape_label": 0,
+    "texture_label": 1,
+    "shape_class": "airplane",
+    "texture_class": "bird",
+    "edge_retention_ratio": 0.769397721106891
+  },
+  {
+    "path": "/content/drive/MyDrive/atml_pa1_task1/cue_conflicts/airplane_shape__bird_texture__0159.png",
+    "content_path": "/content/drive/MyDrive/atml_pa1_task1/cue_conflicts/airplane_shape__bird_texture__0159_content.png",
+    "shape_label": 0,
+    "texture_label": 1,
+    "shape_class": "airplane",
+    "texture_class": "bird",
+    "edge_retention_ratio": 0.35988343856240895
+  },
+  {
+    "path": "/content/drive/MyDrive/atml_pa1_task1/cue_conflicts/airplane_shape__bird_texture__0160.png",
+    "content_path": "/content/drive/MyDrive/atml_pa1_task1/cue_conflicts/airplane_shape__bird_texture__0160_content.png",
+    "shape_label": 0,
+    "texture_label": 1,
+    "shape_class": "airplane",
+    "texture_class": "bird",
+    "edge_retention_ratio": 0.6369656833232992
+  },
+  {
+    "path": "/content/drive/MyDrive/atml_pa1_task1/cue_conflicts/airplane_shape__bird_texture__0161.png",
+    "content_path": "/content/drive/MyDrive/atml_pa1_task1/cue_conflicts/airplane_shape__bird_texture__0161_content.png",
+    "shape_label": 0,
+    "texture_label": 1,
+    "shape_class": "airplane",
+    "texture_class": "bird",
+    "edge_retention_ratio": 0.5953101361573374
+  },
+  {
+    "path": "/content/drive/MyDrive/atml_pa1_task1/cue_conflicts/airplane_shape__bird_texture__0162.png",
+    "content_path": "/content/drive/MyDrive/atml_pa1_task1/cue_conflicts/airplane_shape__bird_texture__0162_content.png",
+    "shape_label": 0,
+    "texture_label": 1,
+    "shape_class": "airplane",
+    "texture_class": "bird",
+    "edge_retention_ratio": 0.4886901630720673
+  },
+  {
+    "path": "/content/drive/MyDrive/atml_pa1_task1/cue_conflicts/airplane_shape__bird_texture__0163.png",
+    "content_path": "/content/drive/MyDrive/atml_pa1_task1/cue_conflicts/airplane_shape__bird_texture__0163_content.png",
+    "shape_label": 0,
+    "texture_label": 1,
+    "shape_class": "airplane",
+    "texture_class": "bird",
+    "edge_retention_ratio": 0.904480135249366
+  },
+  {
+    "path": "/content/drive/MyDrive/atml_pa1_task1/cue_conflicts/airplane_shape__bird_texture__0164.png",
+    "content_path": "/content/drive/MyDrive/atml_pa1_task1/cue_conflicts/airplane_shape__bird_texture__0164_content.png",
+    "shape_label": 0,
+    "texture_label": 1,
+    "shape_class": "airplane",
+    "texture_class": "bird",
+    "edge_retention_ratio": 0.7241506646971935
+  },
+  {
+    "path": "/content/drive/MyDrive/atml_pa1_task1/cue_conflicts/airplane_shape__bird_texture__0165.png",
+    "content_path": "/content/drive/MyDrive/atml_pa1_task1/cue_conflicts/airplane_shape__bird_texture__0165_content.png",
+    "shape_label": 0,
+    "texture_label": 1,
+    "shape_class": "airplane",
+    "texture_class": "bird",
+    "edge_retention_ratio": 0.33202247191011236
+  },
+  {
+    "path": "/content/drive/MyDrive/atml_pa1_task1/cue_conflicts/airplane_shape__bird_texture__0166.png",
+    "content_path": "/content/drive/MyDrive/atml_pa1_task1/cue_conflicts/airplane_shape__bird_texture__0166_content.png",
+    "shape_label": 0,
+    "texture_label": 1,
+    "shape_class": "airplane",
+    "texture_class": "bird",
+    "edge_retention_ratio": 0.3735763097949886
+  },
+  {
+    "path": "/content/drive/MyDrive/atml_pa1_task1/cue_conflicts/airplane_shape__bird_texture__0167.png",
+    "content_path": "/content/drive/MyDrive/atml_pa1_task1/cue_conflicts/airplane_shape__bird_texture__0167_content.png",
+    "shape_label": 0,
+    "texture_label": 1,
+    "shape_class": "airplane",
+    "texture_class": "bird",
+    "edge_retention_ratio": 0.4022794428028704
+  },
+  {
+    "path": "/content/drive/MyDrive/atml_pa1_task1/cue_conflicts/airplane_shape__bird_texture__0168.png",
+    "content_path": "/content/drive/MyDrive/atml_pa1_task1/cue_conflicts/airplane_shape__bird_texture__0168_content.png",
+    "shape_label": 0,
+    "texture_label": 1,
+    "shape_class": "airplane",
+    "texture_class": "bird",
+    "edge_retention_ratio": 0.5890196078431372
+  },
+  {
+    "path": "/content/drive/MyDrive/atml_pa1_task1/cue_conflicts/airplane_shape__bird_texture__0169.png",
+    "content_path": "/content/drive/MyDrive/atml_pa1_task1/cue_conflicts/airplane_shape__bird_texture__0169_content.png",
+    "shape_label": 0,
+    "texture_label": 1,
+    "shape_class": "airplane",
+    "texture_class": "bird",
+    "edge_retention_ratio": 0.673438675696012
+  },
+  {
+    "path": "/content/drive/MyDrive/atml_pa1_task1/cue_conflicts/airplane_shape__bird_texture__0170.png",
+    "content_path": "/content/drive/MyDrive/atml_pa1_task1/cue_conflicts/airplane_shape__bird_texture__0170_content.png",
+    "shape_label": 0,
+    "texture_label": 1,
+    "shape_class": "airplane",
+    "texture_class": "bird",
+    "edge_retention_ratio": 0.4398368456832087
+  },
+  {
+    "path": "/content/drive/MyDrive/atml_pa1_task1/cue_conflicts/airplane_shape__bird_texture__0171.png",
+    "content_path": "/content/drive/MyDrive/atml_pa1_task1/cue_conflicts/airplane_shape__bird_texture__0171_content.png",
+    "shape_label": 0,
+    "texture_label": 1,
+    "shape_class": "airplane",
+    "texture_class": "bird",
+    "edge_retention_ratio": 0.5016806722689076
+  },
+  {
+    "path": "/content/drive/MyDrive/atml_pa1_task1/cue_conflicts/airplane_shape__bird_texture__0172.png",
+    "content_path": "/content/drive/MyDrive/atml_pa1_task1/cue_conflicts/airplane_shape__bird_texture__0172_content.png",
+    "shape_label": 0,
+    "texture_label": 1,
+    "shape_class": "airplane",
+    "texture_class": "bird",
+    "edge_retention_ratio": 0.3955056179775281
+  },
+  {
+    "path": "/content/drive/MyDrive/atml_pa1_task1/cue_conflicts/airplane_shape__bird_texture__0173.png",
+    "content_path": "/content/drive/MyDrive/atml_pa1_task1/cue_conflicts/airplane_shape__bird_texture__0173_content.png",
+    "shape_label": 0,
+    "texture_label": 1,
+    "shape_class": "airplane",
+    "texture_class": "bird",
+    "edge_retention_ratio": 0.37402597402597404
+  },
+  {
+    "path": "/content/drive/MyDrive/atml_pa1_task1/cue_conflicts/airplane_shape__bird_texture__0174.png",
+    "content_path": "/content/drive/MyDrive/atml_pa1_task1/cue_conflicts/airplane_shape__bird_texture__0174_content.png",
+    "shape_label": 0,
+    "texture_label": 1,
+    "shape_class": "airplane",
+    "texture_class": "bird",
+    "edge_retention_ratio": 0.4378666666666667
+  },
+  {
+    "path": "/content/drive/MyDrive/atml_pa1_task1/cue_conflicts/airplane_shape__bird_texture__0175.png",
+    "content_path": "/content/drive/MyDrive/atml_pa1_task1/cue_conflicts/airplane_shape__bird_texture__0175_content.png",
+    "shape_label": 0,
+    "texture_label": 1,
+    "shape_class": "airplane",
+    "texture_class": "bird",
+    "edge_retention_ratio": 0.6486718080548415
+  },
+  {
+    "path": "/content/drive/MyDrive/atml_pa1_task1/cue_conflicts/monkey_shape__dog_texture__0176.png",
+    "content_path": "/content/drive/MyDrive/atml_pa1_task1/cue_conflicts/monkey_shape__dog_texture__0176_content.png",
+    "shape_label": 7,
+    "texture_label": 5,
+    "shape_class": "monkey",
+    "texture_class": "dog",
+    "edge_retention_ratio": 0.32120593902300804
+  },
+  {
+    "path": "/content/drive/MyDrive/atml_pa1_task1/cue_conflicts/monkey_shape__dog_texture__0177.png",
+    "content_path": "/content/drive/MyDrive/atml_pa1_task1/cue_conflicts/monkey_shape__dog_texture__0177_content.png",
+    "shape_label": 7,
+    "texture_label": 5,
+    "shape_class": "monkey",
+    "texture_class": "dog",
+    "edge_retention_ratio": 0.7636986301369864
+  },
+  {
+    "path": "/content/drive/MyDrive/atml_pa1_task1/cue_conflicts/monkey_shape__dog_texture__0178.png",
+    "content_path": "/content/drive/MyDrive/atml_pa1_task1/cue_conflicts/monkey_shape__dog_texture__0178_content.png",
+    "shape_label": 7,
+    "texture_label": 5,
+    "shape_class": "monkey",
+    "texture_class": "dog",
+    "edge_retention_ratio": 0.6020343293070566
+  },
+  {
+    "path": "/content/drive/MyDrive/atml_pa1_task1/cue_conflicts/monkey_shape__dog_texture__0179.png",
+    "content_path": "/content/drive/MyDrive/atml_pa1_task1/cue_conflicts/monkey_shape__dog_texture__0179_content.png",
+    "shape_label": 7,
+    "texture_label": 5,
+    "shape_class": "monkey",
+    "texture_class": "dog",
+    "edge_retention_ratio": 0.8299319727891157
+  },
+  {
+    "path": "/content/drive/MyDrive/atml_pa1_task1/cue_conflicts/monkey_shape__dog_texture__0180.png",
+    "content_path": "/content/drive/MyDrive/atml_pa1_task1/cue_conflicts/monkey_shape__dog_texture__0180_content.png",
+    "shape_label": 7,
+    "texture_label": 5,
+    "shape_class": "monkey",
+    "texture_class": "dog",
+    "edge_retention_ratio": 0.5222300635144672
+  },
+  {
+    "path": "/content/drive/MyDrive/atml_pa1_task1/cue_conflicts/monkey_shape__dog_texture__0181.png",
+    "content_path": "/content/drive/MyDrive/atml_pa1_task1/cue_conflicts/monkey_shape__dog_texture__0181_content.png",
+    "shape_label": 7,
+    "texture_label": 5,
+    "shape_class": "monkey",
+    "texture_class": "dog",
+    "edge_retention_ratio": 0.7196885428253615
+  },
+  {
+    "path": "/content/drive/MyDrive/atml_pa1_task1/cue_conflicts/monkey_shape__dog_texture__0182.png",
+    "content_path": "/content/drive/MyDrive/atml_pa1_task1/cue_conflicts/monkey_shape__dog_texture__0182_content.png",
+    "shape_label": 7,
+    "texture_label": 5,
+    "shape_class": "monkey",
+    "texture_class": "dog",
+    "edge_retention_ratio": 0.7394151025752946
+  },
+  {
+    "path": "/content/drive/MyDrive/atml_pa1_task1/cue_conflicts/monkey_shape__dog_texture__0183.png",
+    "content_path": "/content/drive/MyDrive/atml_pa1_task1/cue_conflicts/monkey_shape__dog_texture__0183_content.png",
+    "shape_label": 7,
+    "texture_label": 5,
+    "shape_class": "monkey",
+    "texture_class": "dog",
+    "edge_retention_ratio": 0.8308351177730193
+  },
+  {
+    "path": "/content/drive/MyDrive/atml_pa1_task1/cue_conflicts/monkey_shape__dog_texture__0184.png",
+    "content_path": "/content/drive/MyDrive/atml_pa1_task1/cue_conflicts/monkey_shape__dog_texture__0184_content.png",
+    "shape_label": 7,
+    "texture_label": 5,
+    "shape_class": "monkey",
+    "texture_class": "dog",
+    "edge_retention_ratio": 0.6444818871103623
+  },
+  {
+    "path": "/content/drive/MyDrive/atml_pa1_task1/cue_conflicts/monkey_shape__dog_texture__0185.png",
+    "content_path": "/content/drive/MyDrive/atml_pa1_task1/cue_conflicts/monkey_shape__dog_texture__0185_content.png",
+    "shape_label": 7,
+    "texture_label": 5,
+    "shape_class": "monkey",
+    "texture_class": "dog",
+    "edge_retention_ratio": 0.7234530175706646
+  },
+  {
+    "path": "/content/drive/MyDrive/atml_pa1_task1/cue_conflicts/monkey_shape__dog_texture__0186.png",
+    "content_path": "/content/drive/MyDrive/atml_pa1_task1/cue_conflicts/monkey_shape__dog_texture__0186_content.png",
+    "shape_label": 7,
+    "texture_label": 5,
+    "shape_class": "monkey",
+    "texture_class": "dog",
+    "edge_retention_ratio": 0.5290350128095644
+  },
+  {
+    "path": "/content/drive/MyDrive/atml_pa1_task1/cue_conflicts/monkey_shape__dog_texture__0187.png",
+    "content_path": "/content/drive/MyDrive/atml_pa1_task1/cue_conflicts/monkey_shape__dog_texture__0187_content.png",
+    "shape_label": 7,
+    "texture_label": 5,
+    "shape_class": "monkey",
+    "texture_class": "dog",
+    "edge_retention_ratio": 0.3136470588235294
+  },
+  {
+    "path": "/content/drive/MyDrive/atml_pa1_task1/cue_conflicts/monkey_shape__dog_texture__0188.png",
+    "content_path": "/content/drive/MyDrive/atml_pa1_task1/cue_conflicts/monkey_shape__dog_texture__0188_content.png",
+    "shape_label": 7,
+    "texture_label": 5,
+    "shape_class": "monkey",
+    "texture_class": "dog",
+    "edge_retention_ratio": 0.38568006388075593
+  },
+  {
+    "path": "/content/drive/MyDrive/atml_pa1_task1/cue_conflicts/monkey_shape__dog_texture__0189.png",
+    "content_path": "/content/drive/MyDrive/atml_pa1_task1/cue_conflicts/monkey_shape__dog_texture__0189_content.png",
+    "shape_label": 7,
+    "texture_label": 5,
+    "shape_class": "monkey",
+    "texture_class": "dog",
+    "edge_retention_ratio": 0.48420102317183267
+  },
+  {
+    "path": "/content/drive/MyDrive/atml_pa1_task1/cue_conflicts/monkey_shape__dog_texture__0190.png",
+    "content_path": "/content/drive/MyDrive/atml_pa1_task1/cue_conflicts/monkey_shape__dog_texture__0190_content.png",
+    "shape_label": 7,
+    "texture_label": 5,
+    "shape_class": "monkey",
+    "texture_class": "dog",
+    "edge_retention_ratio": 0.47691855336665684
+  },
+  {
+    "path": "/content/drive/MyDrive/atml_pa1_task1/cue_conflicts/monkey_shape__dog_texture__0191.png",
+    "content_path": "/content/drive/MyDrive/atml_pa1_task1/cue_conflicts/monkey_shape__dog_texture__0191_content.png",
+    "shape_label": 7,
+    "texture_label": 5,
+    "shape_class": "monkey",
+    "texture_class": "dog",
+    "edge_retention_ratio": 0.7416787264833574
+  },
+  {
+    "path": "/content/drive/MyDrive/atml_pa1_task1/cue_conflicts/monkey_shape__dog_texture__0192.png",
+    "content_path": "/content/drive/MyDrive/atml_pa1_task1/cue_conflicts/monkey_shape__dog_texture__0192_content.png",
+    "shape_label": 7,
+    "texture_label": 5,
+    "shape_class": "monkey",
+    "texture_class": "dog",
+    "edge_retention_ratio": 0.7933114035087719
+  },
+  {
+    "path": "/content/drive/MyDrive/atml_pa1_task1/cue_conflicts/monkey_shape__dog_texture__0193.png",
+    "content_path": "/content/drive/MyDrive/atml_pa1_task1/cue_conflicts/monkey_shape__dog_texture__0193_content.png",
+    "shape_label": 7,
+    "texture_label": 5,
+    "shape_class": "monkey",
+    "texture_class": "dog",
+    "edge_retention_ratio": 0.37597791072250347
+  },
+  {
+    "path": "/content/drive/MyDrive/atml_pa1_task1/cue_conflicts/monkey_shape__dog_texture__0194.png",
+    "content_path": "/content/drive/MyDrive/atml_pa1_task1/cue_conflicts/monkey_shape__dog_texture__0194_content.png",
+    "shape_label": 7,
+    "texture_label": 5,
+    "shape_class": "monkey",
+    "texture_class": "dog",
+    "edge_retention_ratio": 0.6646682653876899
+  },
+  {
+    "path": "/content/drive/MyDrive/atml_pa1_task1/cue_conflicts/monkey_shape__dog_texture__0195.png",
+    "content_path": "/content/drive/MyDrive/atml_pa1_task1/cue_conflicts/monkey_shape__dog_texture__0195_content.png",
+    "shape_label": 7,
+    "texture_label": 5,
+    "shape_class": "monkey",
+    "texture_class": "dog",
+    "edge_retention_ratio": 0.6509511993382961
+  },
+  {
+    "path": "/content/drive/MyDrive/atml_pa1_task1/cue_conflicts/monkey_shape__dog_texture__0196.png",
+    "content_path": "/content/drive/MyDrive/atml_pa1_task1/cue_conflicts/monkey_shape__dog_texture__0196_content.png",
+    "shape_label": 7,
+    "texture_label": 5,
+    "shape_class": "monkey",
+    "texture_class": "dog",
+    "edge_retention_ratio": 0.3065350824407269
+  },
+  {
+    "path": "/content/drive/MyDrive/atml_pa1_task1/cue_conflicts/monkey_shape__dog_texture__0197.png",
+    "content_path": "/content/drive/MyDrive/atml_pa1_task1/cue_conflicts/monkey_shape__dog_texture__0197_content.png",
+    "shape_label": 7,
+    "texture_label": 5,
+    "shape_class": "monkey",
+    "texture_class": "dog",
+    "edge_retention_ratio": 0.446687573500588
+  },
+  {
+    "path": "/content/drive/MyDrive/atml_pa1_task1/cue_conflicts/dog_shape__monkey_texture__0198.png",
+    "content_path": "/content/drive/MyDrive/atml_pa1_task1/cue_conflicts/dog_shape__monkey_texture__0198_content.png",
+    "shape_label": 5,
+    "texture_label": 7,
+    "shape_class": "dog",
+    "texture_class": "monkey",
+    "edge_retention_ratio": 0.4355716878402904
+  },
+  {
+    "path": "/content/drive/MyDrive/atml_pa1_task1/cue_conflicts/dog_shape__monkey_texture__0199.png",
+    "content_path": "/content/drive/MyDrive/atml_pa1_task1/cue_conflicts/dog_shape__monkey_texture__0199_content.png",
+    "shape_label": 5,
+    "texture_label": 7,
+    "shape_class": "dog",
+    "texture_class": "monkey",
+    "edge_retention_ratio": 0.42831991951710263
+  },
+  {
+    "path": "/content/drive/MyDrive/atml_pa1_task1/cue_conflicts/dog_shape__monkey_texture__0200.png",
+    "content_path": "/content/drive/MyDrive/atml_pa1_task1/cue_conflicts/dog_shape__monkey_texture__0200_content.png",
+    "shape_label": 5,
+    "texture_label": 7,
+    "shape_class": "dog",
+    "texture_class": "monkey",
+    "edge_retention_ratio": 0.721832884097035
+  },
+  {
+    "path": "/content/drive/MyDrive/atml_pa1_task1/cue_conflicts/dog_shape__monkey_texture__0201.png",
+    "content_path": "/content/drive/MyDrive/atml_pa1_task1/cue_conflicts/dog_shape__monkey_texture__0201_content.png",
+    "shape_label": 5,
+    "texture_label": 7,
+    "shape_class": "dog",
+    "texture_class": "monkey",
+    "edge_retention_ratio": 0.6377749029754204
+  },
+  {
+    "path": "/content/drive/MyDrive/atml_pa1_task1/cue_conflicts/dog_shape__monkey_texture__0202.png",
+    "content_path": "/content/drive/MyDrive/atml_pa1_task1/cue_conflicts/dog_shape__monkey_texture__0202_content.png",
+    "shape_label": 5,
+    "texture_label": 7,
+    "shape_class": "dog",
+    "texture_class": "monkey",
+    "edge_retention_ratio": 0.6389930369576862
+  },
+  {
+    "path": "/content/drive/MyDrive/atml_pa1_task1/cue_conflicts/dog_shape__monkey_texture__0203.png",
+    "content_path": "/content/drive/MyDrive/atml_pa1_task1/cue_conflicts/dog_shape__monkey_texture__0203_content.png",
+    "shape_label": 5,
+    "texture_label": 7,
+    "shape_class": "dog",
+    "texture_class": "monkey",
+    "edge_retention_ratio": 0.5002683843263553
+  },
+  {
+    "path": "/content/drive/MyDrive/atml_pa1_task1/cue_conflicts/dog_shape__monkey_texture__0204.png",
+    "content_path": "/content/drive/MyDrive/atml_pa1_task1/cue_conflicts/dog_shape__monkey_texture__0204_content.png",
+    "shape_label": 5,
+    "texture_label": 7,
+    "shape_class": "dog",
+    "texture_class": "monkey",
+    "edge_retention_ratio": 0.7395678092399404
+  },
+  {
+    "path": "/content/drive/MyDrive/atml_pa1_task1/cue_conflicts/dog_shape__monkey_texture__0205.png",
+    "content_path": "/content/drive/MyDrive/atml_pa1_task1/cue_conflicts/dog_shape__monkey_texture__0205_content.png",
+    "shape_label": 5,
+    "texture_label": 7,
+    "shape_class": "dog",
+    "texture_class": "monkey",
+    "edge_retention_ratio": 0.49945402926403143
+  },
+  {
+    "path": "/content/drive/MyDrive/atml_pa1_task1/cue_conflicts/dog_shape__monkey_texture__0206.png",
+    "content_path": "/content/drive/MyDrive/atml_pa1_task1/cue_conflicts/dog_shape__monkey_texture__0206_content.png",
+    "shape_label": 5,
+    "texture_label": 7,
+    "shape_class": "dog",
+    "texture_class": "monkey",
+    "edge_retention_ratio": 0.552190373174689
+  },
+  {
+    "path": "/content/drive/MyDrive/atml_pa1_task1/cue_conflicts/dog_shape__monkey_texture__0207.png",
+    "content_path": "/content/drive/MyDrive/atml_pa1_task1/cue_conflicts/dog_shape__monkey_texture__0207_content.png",
+    "shape_label": 5,
+    "texture_label": 7,
+    "shape_class": "dog",
+    "texture_class": "monkey",
+    "edge_retention_ratio": 0.3487972508591065
+  },
+  {
+    "path": "/content/drive/MyDrive/atml_pa1_task1/cue_conflicts/dog_shape__monkey_texture__0208.png",
+    "content_path": "/content/drive/MyDrive/atml_pa1_task1/cue_conflicts/dog_shape__monkey_texture__0208_content.png",
+    "shape_label": 5,
+    "texture_label": 7,
+    "shape_class": "dog",
+    "texture_class": "monkey",
+    "edge_retention_ratio": 0.6397058823529411
+  },
+  {
+    "path": "/content/drive/MyDrive/atml_pa1_task1/cue_conflicts/dog_shape__monkey_texture__0209.png",
+    "content_path": "/content/drive/MyDrive/atml_pa1_task1/cue_conflicts/dog_shape__monkey_texture__0209_content.png",
+    "shape_label": 5,
+    "texture_label": 7,
+    "shape_class": "dog",
+    "texture_class": "monkey",
+    "edge_retention_ratio": 0.8370423546302943
+  },
+  {
+    "path": "/content/drive/MyDrive/atml_pa1_task1/cue_conflicts/dog_shape__monkey_texture__0210.png",
+    "content_path": "/content/drive/MyDrive/atml_pa1_task1/cue_conflicts/dog_shape__monkey_texture__0210_content.png",
+    "shape_label": 5,
+    "texture_label": 7,
+    "shape_class": "dog",
+    "texture_class": "monkey",
+    "edge_retention_ratio": 0.45441283734500365
+  },
+  {
+    "path": "/content/drive/MyDrive/atml_pa1_task1/cue_conflicts/dog_shape__monkey_texture__0211.png",
+    "content_path": "/content/drive/MyDrive/atml_pa1_task1/cue_conflicts/dog_shape__monkey_texture__0211_content.png",
+    "shape_label": 5,
+    "texture_label": 7,
+    "shape_class": "dog",
+    "texture_class": "monkey",
+    "edge_retention_ratio": 0.4168564920273349
+  },
+  {
+    "path": "/content/drive/MyDrive/atml_pa1_task1/cue_conflicts/dog_shape__monkey_texture__0212.png",
+    "content_path": "/content/drive/MyDrive/atml_pa1_task1/cue_conflicts/dog_shape__monkey_texture__0212_content.png",
+    "shape_label": 5,
+    "texture_label": 7,
+    "shape_class": "dog",
+    "texture_class": "monkey",
+    "edge_retention_ratio": 0.3301217038539554
+  },
+  {
+    "path": "/content/drive/MyDrive/atml_pa1_task1/cue_conflicts/dog_shape__monkey_texture__0213.png",
+    "content_path": "/content/drive/MyDrive/atml_pa1_task1/cue_conflicts/dog_shape__monkey_texture__0213_content.png",
+    "shape_label": 5,
+    "texture_label": 7,
+    "shape_class": "dog",
+    "texture_class": "monkey",
+    "edge_retention_ratio": 0.3203630034808553
+  },
+  {
+    "path": "/content/drive/MyDrive/atml_pa1_task1/cue_conflicts/dog_shape__monkey_texture__0214.png",
+    "content_path": "/content/drive/MyDrive/atml_pa1_task1/cue_conflicts/dog_shape__monkey_texture__0214_content.png",
+    "shape_label": 5,
+    "texture_label": 7,
+    "shape_class": "dog",
+    "texture_class": "monkey",
+    "edge_retention_ratio": 0.5776430266279989
+  },
+  {
+    "path": "/content/drive/MyDrive/atml_pa1_task1/cue_conflicts/dog_shape__monkey_texture__0215.png",
+    "content_path": "/content/drive/MyDrive/atml_pa1_task1/cue_conflicts/dog_shape__monkey_texture__0215_content.png",
+    "shape_label": 5,
+    "texture_label": 7,
+    "shape_class": "dog",
+    "texture_class": "monkey",
+    "edge_retention_ratio": 0.33884537278793153
+  },
+  {
+    "path": "/content/drive/MyDrive/atml_pa1_task1/cue_conflicts/dog_shape__monkey_texture__0216.png",
+    "content_path": "/content/drive/MyDrive/atml_pa1_task1/cue_conflicts/dog_shape__monkey_texture__0216_content.png",
+    "shape_label": 5,
+    "texture_label": 7,
+    "shape_class": "dog",
+    "texture_class": "monkey",
+    "edge_retention_ratio": 0.7185360094451003
+  },
+  {
+    "path": "/content/drive/MyDrive/atml_pa1_task1/cue_conflicts/dog_shape__monkey_texture__0217.png",
+    "content_path": "/content/drive/MyDrive/atml_pa1_task1/cue_conflicts/dog_shape__monkey_texture__0217_content.png",
+    "shape_label": 5,
+    "texture_label": 7,
+    "shape_class": "dog",
+    "texture_class": "monkey",
+    "edge_retention_ratio": 0.4340425531914894
+  },
+  {
+    "path": "/content/drive/MyDrive/atml_pa1_task1/cue_conflicts/dog_shape__monkey_texture__0218.png",
+    "content_path": "/content/drive/MyDrive/atml_pa1_task1/cue_conflicts/dog_shape__monkey_texture__0218_content.png",
+    "shape_label": 5,
+    "texture_label": 7,
+    "shape_class": "dog",
+    "texture_class": "monkey",
+    "edge_retention_ratio": 0.7315709201830198
+  },
+  {
+    "path": "/content/drive/MyDrive/atml_pa1_task1/cue_conflicts/dog_shape__monkey_texture__0219.png",
+    "content_path": "/content/drive/MyDrive/atml_pa1_task1/cue_conflicts/dog_shape__monkey_texture__0219_content.png",
+    "shape_label": 5,
+    "texture_label": 7,
+    "shape_class": "dog",
+    "texture_class": "monkey",
+    "edge_retention_ratio": 0.7886351566648965
+  }
+]

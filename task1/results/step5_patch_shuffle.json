@@ -1,0 +1,14 @@
+{
+  "resnet": {
+    "acc": 0.89,
+    "consistency_vs_clean": 0.908
+  },
+  "vit": {
+    "acc": 0.882,
+    "consistency_vs_clean": 0.908
+  },
+  "clip": {
+    "acc": 0.844,
+    "consistency_vs_clean": 0.852
+  }
+}

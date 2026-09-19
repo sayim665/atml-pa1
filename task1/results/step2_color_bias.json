@@ -1,0 +1,26 @@
+{
+  "resnet_grayscale": {
+    "acc": 0.946,
+    "consistency_vs_clean": 0.956
+  },
+  "resnet_hue_rotate": {
+    "acc": 0.946,
+    "consistency_vs_clean": 0.952
+  },
+  "vit_grayscale": {
+    "acc": 0.944,
+    "consistency_vs_clean": 0.958
+  },
+  "vit_hue_rotate": {
+    "acc": 0.93,
+    "consistency_vs_clean": 0.95
+  },
+  "clip_grayscale": {
+    "acc": 0.936,
+    "consistency_vs_clean": 0.942
+  },
+  "clip_hue_rotate": {
+    "acc": 0.934,
+    "consistency_vs_clean": 0.94
+  }
+}

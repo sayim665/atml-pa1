@@ -1,0 +1,30 @@
+{
+  "resnet": {
+    "shape_bias_pct": 68.15286624203821,
+    "coverage_pct": 71.36363636363636,
+    "n_shape": 107,
+    "n_texture": 50,
+    "n_total": 220
+  },
+  "vit": {
+    "shape_bias_pct": 85.4054054054054,
+    "coverage_pct": 84.0909090909091,
+    "n_shape": 158,
+    "n_texture": 27,
+    "n_total": 220
+  },
+  "clip": {
+    "shape_bias_pct": 86.17021276595744,
+    "coverage_pct": 85.45454545454545,
+    "n_shape": 162,
+    "n_texture": 26,
+    "n_total": 220
+  },
+  "clip_zeroshot": {
+    "shape_bias_pct": 81.48148148148148,
+    "coverage_pct": 85.9090909090909,
+    "n_shape": 154,
+    "n_texture": 35,
+    "n_total": 220
+  }
+}

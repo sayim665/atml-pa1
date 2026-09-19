@@ -1,0 +1,20 @@
+{
+  "resnet": {
+    "grayscale": 0.798108696937561,
+    "translation_16px_right": 0.9442152380943298,
+    "patch_shuffle": 0.6982101798057556,
+    "cue_conflict": 0.38098499178886414
+  },
+  "vit": {
+    "grayscale": 0.7312588095664978,
+    "translation_16px_right": 0.9711867570877075,
+    "patch_shuffle": 0.5895035266876221,
+    "cue_conflict": 0.3959818184375763
+  },
+  "clip": {
+    "grayscale": 0.8876953125,
+    "translation_16px_right": 0.9619584679603577,
+    "patch_shuffle": 0.7377856969833374,
+    "cue_conflict": 0.7493575811386108
+  }
+}
