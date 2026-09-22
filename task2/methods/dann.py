@@ -107,6 +107,14 @@ def main(results_dir, checkpoint_dir, device_str="cuda", tag="dann"):
 
             loss = cls_loss + DOMAIN_LOSS_WEIGHT * domain_loss
             loss.backward()
+            # Gradient clipping: standard practice for DANN -- without it, the GRL's adversarial
+            # push/pull between backbone and discriminator can spiral (large loss, feature norms
+            # blowing up). max_norm=5.0 is a common default; see spec's "What to Watch For" note
+            # on interpreting domain-discriminator behavior alongside classification losses.
+            torch.nn.utils.clip_grad_norm_(
+                list(backbone.parameters()) + list(head.parameters()) + list(discriminator.parameters()),
+                max_norm=5.0,
+            )
             optimizer.step()
 
             epoch_cls_loss += cls_loss.item()
