@@ -91,17 +91,24 @@ def main(results_dir, checkpoint_dir, device_str="cuda", tag="dann"):
             src_feats = backbone(src_imgs)
             tgt_feats = backbone(tgt_imgs)
 
-            # Classification: SOURCE ONLY
+            # Classification: SOURCE ONLY -- sees the RAW feature, unaffected by the normalization below.
             logits = head(src_feats)
             cls_loss = F.cross_entropy(logits, src_labels)
 
-            # Domain classification: BOTH source and target, through the GRL
+            # Domain classification: BOTH source and target, through the GRL.
+            # L2-normalize features on this pathway only: without it, AdamW has a standing incentive
+            # to keep growing feature magnitude (larger features -> more confident domain logits ->
+            # lower domain_loss on whichever side is "winning" that step), and gradient clipping alone
+            # doesn't stop that gradual drift since it bounds per-step size, not the optimizer's bias
+            # toward growing a direction that consistently reduces loss. Normalizing removes the
+            # incentive: cosine-similarity-like scale, bounded regardless of the backbone's raw feature norm.
             all_feats = torch.cat([src_feats, tgt_feats], dim=0)
+            all_feats_normed = F.normalize(all_feats, dim=-1) * (all_feats.size(-1) ** 0.5)  # rescale to ~unit-variance-per-dim
             domain_labels = torch.cat([
                 torch.zeros(src_feats.size(0), dtype=torch.long),  # 0 = source
                 torch.ones(tgt_feats.size(0), dtype=torch.long),   # 1 = target
             ]).to(device)
-            reversed_feats = grl(all_feats)
+            reversed_feats = grl(all_feats_normed)
             domain_logits = discriminator(reversed_feats)
             domain_loss = F.cross_entropy(domain_logits, domain_labels)
 
@@ -113,7 +120,7 @@ def main(results_dir, checkpoint_dir, device_str="cuda", tag="dann"):
             # on interpreting domain-discriminator behavior alongside classification losses.
             torch.nn.utils.clip_grad_norm_(
                 list(backbone.parameters()) + list(head.parameters()) + list(discriminator.parameters()),
-                max_norm=5.0,
+                max_norm=1.0,  # tightened after the first fix proved insufficient alone
             )
             optimizer.step()
 
