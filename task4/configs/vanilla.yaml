@@ -1,0 +1,10 @@
+method: vanilla
+seed: 6304
+epochs: 100
+batch_size: 128
+optimizer: SGD
+lr: 0.1
+momentum: 0.9
+weight_decay: 0.0005
+schedule: cosine
+architecture: "CIFAR ResNet-18 (3x3 stride-1 stem, no max-pool)"
