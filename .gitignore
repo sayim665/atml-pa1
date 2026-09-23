@@ -11,3 +11,6 @@ checkpoints/
 .DS_Store
 task4/cache/*
 !task4/cache/.gitkeep
+
+!task4/data/
+!task4/data/*.py
