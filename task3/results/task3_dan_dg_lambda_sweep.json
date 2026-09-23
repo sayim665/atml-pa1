@@ -1,0 +1,62 @@
+{
+  "0.1": {
+    "per_source_val": {
+      "photo": {
+        "acc": 0.9790419161676647,
+        "macro_f1": 0.9768337455005895
+      },
+      "art_painting": {
+        "acc": 0.9097560975609756,
+        "macro_f1": 0.9104958387533387
+      },
+      "cartoon": {
+        "acc": 0.9360341151385928,
+        "macro_f1": 0.9417950018951217
+      }
+    },
+    "mean_source_val_acc": 0.941610709622411,
+    "source_domain_separability_score": 0.8489010989010989,
+    "sketch_acc": 0.6581827437006872,
+    "sketch_macro_f1": 0.7024053046520132
+  },
+  "1.0": {
+    "per_source_val": {
+      "photo": {
+        "acc": 0.9580838323353293,
+        "macro_f1": 0.9521562287780133
+      },
+      "art_painting": {
+        "acc": 0.8975609756097561,
+        "macro_f1": 0.8965617847030634
+      },
+      "cartoon": {
+        "acc": 0.9509594882729211,
+        "macro_f1": 0.9566169072816161
+      }
+    },
+    "mean_source_val_acc": 0.9355347654060022,
+    "source_domain_separability_score": 0.7307692307692307,
+    "sketch_acc": 0.5767370832272843,
+    "sketch_macro_f1": 0.5923104656081197
+  },
+  "10.0": {
+    "per_source_val": {
+      "photo": {
+        "acc": 0.6287425149700598,
+        "macro_f1": 0.5239075208328087
+      },
+      "art_painting": {
+        "acc": 0.43902439024390244,
+        "macro_f1": 0.3709899227258219
+      },
+      "cartoon": {
+        "acc": 0.5266524520255863,
+        "macro_f1": 0.5149154740175049
+      }
+    },
+    "mean_source_val_acc": 0.5314731190798495,
+    "source_domain_separability_score": 0.7774725274725275,
+    "sketch_acc": 0.4573682870959532,
+    "sketch_macro_f1": 0.3979069786079678
+  }
+}

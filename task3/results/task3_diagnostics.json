@@ -1,0 +1,17 @@
+{
+  "erm": {
+    "source_domain_separability_score": 0.8736263736263736,
+    "chance_level": 0.3333333333333333,
+    "delta_sharp": 0.34348175674676895
+  },
+  "dan_dg": {
+    "source_domain_separability_score": 0.7307692307692307,
+    "chance_level": 0.3333333333333333,
+    "delta_sharp": 0.32938743382692337
+  },
+  "sam": {
+    "source_domain_separability_score": 0.8956043956043956,
+    "chance_level": 0.3333333333333333,
+    "delta_sharp": 0.16085335612297058
+  }
+}

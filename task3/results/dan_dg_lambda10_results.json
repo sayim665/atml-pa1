@@ -1,0 +1,23 @@
+{
+  "per_source_val": {
+    "photo": {
+      "acc": 0.6287425149700598,
+      "macro_f1": 0.5239075208328087
+    },
+    "art_painting": {
+      "acc": 0.43902439024390244,
+      "macro_f1": 0.3709899227258219
+    },
+    "cartoon": {
+      "acc": 0.5266524520255863,
+      "macro_f1": 0.5149154740175049
+    }
+  },
+  "mean_source_acc": 0.5314731190798495,
+  "mean_source_macro_f1": 0.4699376391920452,
+  "worst_source_acc": 0.43902439024390244,
+  "worst_source_macro_f1": 0.3709899227258219,
+  "lambda_dg": 10.0,
+  "best_mean_source_val_f1": 0.4699376391920452,
+  "note": "Sketch was NEVER loaded anywhere in this script."
+}

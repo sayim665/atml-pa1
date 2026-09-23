@@ -1,0 +1,20 @@
+{
+  "erm": {
+    "sketch_acc": 0.6808348180198524,
+    "sketch_macro_f1": 0.7057150507731261,
+    "sketch_acc_change_vs_erm": 0.0,
+    "sketch_f1_change_vs_erm": 0.0
+  },
+  "dan_dg": {
+    "sketch_acc": 0.5767370832272843,
+    "sketch_macro_f1": 0.5923104656081197,
+    "sketch_acc_change_vs_erm": -0.10409773479256801,
+    "sketch_f1_change_vs_erm": -0.1134045851650064
+  },
+  "sam": {
+    "sketch_acc": 0.6902519725120896,
+    "sketch_macro_f1": 0.717684071825226,
+    "sketch_acc_change_vs_erm": 0.009417154492237234,
+    "sketch_f1_change_vs_erm": 0.011969021052099849
+  }
+}
