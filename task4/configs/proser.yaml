@@ -1,0 +1,17 @@
+method: proser
+seed: 6304
+epochs: 50
+batch_size: 128
+optimizer: SGD
+lr: 0.001
+momentum: 0.9
+weight_decay: 0.0005
+schedule: cosine
+n_known: 10
+n_dummy: 5
+beta_classifier_placeholder: 1.0
+gamma_data_placeholder: 0.1
+mixup_beta_alpha: 2.0
+mixup_point: "after layer2, before layer3"
+init: "ProserHead's known-class rows initialized from the Vanilla checkpoint's fc weights; dummy rows random"
+note: "First half of each batch -> classifier-placeholder loss; second half -> manifold-mixup data-placeholder loss."
