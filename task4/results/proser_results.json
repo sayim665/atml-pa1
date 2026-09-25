@@ -1,0 +1,4 @@
+{
+  "best_val_acc_known_only": 0.9472,
+  "note": "Transcribed from Kaggle console output -- the live JSON file was lost when the Kaggle session's /kaggle/working/ was wiped before it could be saved. This is the second (retrained) run's result, which matches the checkpoint actually used for evaluate_proser.py."
+}

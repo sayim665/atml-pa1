@@ -1,0 +1,58 @@
+{
+  "Vanilla (MLS)": {
+    "closed_set_accuracy": 0.9488,
+    "auroc": {
+      "near": 0.7889126875,
+      "far": 0.8831541875000001,
+      "all": 0.8360334375
+    },
+    "threshold_tau": -5.77525520324707,
+    "known_test_acceptance_rate": 0.9516,
+    "near_unknown_acceptance_rate": 0.7075,
+    "far_unknown_acceptance_rate": 0.48125,
+    "near_unknown_rejection_rate": 0.2925,
+    "far_unknown_rejection_rate": 0.51875
+  },
+  "GCSC (MLS)": {
+    "closed_set_accuracy": 0.9504,
+    "auroc": {
+      "near": 0.8125573125,
+      "far": 0.9140383124999998,
+      "all": 0.8632978125
+    },
+    "threshold_tau": -6.357805252075195,
+    "known_test_acceptance_rate": 0.9435,
+    "near_unknown_acceptance_rate": 0.6325,
+    "far_unknown_acceptance_rate": 0.37375,
+    "near_unknown_rejection_rate": 0.3675,
+    "far_unknown_rejection_rate": 0.62625
+  },
+  "PROSER (MLS, known-only)": {
+    "closed_set_accuracy": 0.946,
+    "auroc": {
+      "near": 0.8174284374999999,
+      "far": 0.8767658749999999,
+      "all": 0.8470971562499999
+    },
+    "threshold_tau": -4.908570766448975,
+    "known_test_acceptance_rate": 0.9498,
+    "near_unknown_acceptance_rate": 0.66625,
+    "far_unknown_acceptance_rate": 0.5175,
+    "near_unknown_rejection_rate": 0.33375,
+    "far_unknown_rejection_rate": 0.4825
+  },
+  "PROSER (placeholder score)": {
+    "closed_set_accuracy": 0.946,
+    "auroc": {
+      "near": 0.7711626875,
+      "far": 0.8811585000000001,
+      "all": 0.8261605937500002
+    },
+    "threshold_tau": 0.3192012906074524,
+    "known_test_acceptance_rate": 0.9474,
+    "near_unknown_acceptance_rate": 0.74875,
+    "far_unknown_acceptance_rate": 0.50875,
+    "near_unknown_rejection_rate": 0.25125,
+    "far_unknown_rejection_rate": 0.49125
+  }
+}

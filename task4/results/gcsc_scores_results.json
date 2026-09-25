@@ -1,0 +1,61 @@
+{
+  "clean_baseline": {
+    "top1_acc": 0.9504,
+    "macro_f1": 0.9504361221800777,
+    "mean_max_confidence": 0.9750660061836243
+  },
+  "post_hoc_scores": {
+    "MSP": {
+      "auroc": {
+        "near": 0.83633925,
+        "far": 0.9145613750000001,
+        "all": 0.8754503124999999
+      },
+      "threshold_tau": 0.15275722742080688,
+      "known_test_acceptance_rate": 0.9434,
+      "near_unknown_acceptance_rate": 0.66,
+      "far_unknown_acceptance_rate": 0.48,
+      "near_unknown_rejection_rate": 0.33999999999999997,
+      "far_unknown_rejection_rate": 0.52
+    },
+    "MLS": {
+      "auroc": {
+        "near": 0.8125573125,
+        "far": 0.9140383124999998,
+        "all": 0.8632978125
+      },
+      "threshold_tau": -6.357805252075195,
+      "known_test_acceptance_rate": 0.9435,
+      "near_unknown_acceptance_rate": 0.6325,
+      "far_unknown_acceptance_rate": 0.37375,
+      "near_unknown_rejection_rate": 0.36750000000000005,
+      "far_unknown_rejection_rate": 0.62625
+    },
+    "Energy": {
+      "auroc": {
+        "near": 0.8116718125,
+        "far": 0.914135875,
+        "all": 0.86290384375
+      },
+      "threshold_tau": -6.523144245147705,
+      "known_test_acceptance_rate": 0.944,
+      "near_unknown_acceptance_rate": 0.62875,
+      "far_unknown_acceptance_rate": 0.37125,
+      "near_unknown_rejection_rate": 0.37124999999999997,
+      "far_unknown_rejection_rate": 0.6287499999999999
+    },
+    "Mahalanobis": {
+      "auroc": {
+        "near": 0.7874575625,
+        "far": 0.9226248750000001,
+        "all": 0.85504121875
+      },
+      "threshold_tau": 1890.257678047839,
+      "known_test_acceptance_rate": 0.9469,
+      "near_unknown_acceptance_rate": 0.705,
+      "far_unknown_acceptance_rate": 0.44125,
+      "near_unknown_rejection_rate": 0.29500000000000004,
+      "far_unknown_rejection_rate": 0.5587500000000001
+    }
+  }
+}
