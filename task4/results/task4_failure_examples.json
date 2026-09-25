@@ -1,0 +1,62 @@
+{
+  "threshold_tau_MLS": -5.77525520324707,
+  "note": "Near/far unknown examples whose MLS score fell BELOW the 95th-percentile validation threshold, meaning Vanilla incorrectly ACCEPTED them as known. Class identity per index requires re-running with the original CIFAR100UnknownSubset label array (not included in the saved .npz) -- reported here by score value and rank (most confidently-accepted failures first), which is the informative part for the report; exact class names can be filled in by inspecting cifar100_unknowns.py's output labels during a live run if needed.",
+  "near_incorrectly_accepted_most_confident": [
+    {
+      "index": 191,
+      "mls_score": -12.192172050476074,
+      "threshold": -5.77525520324707
+    },
+    {
+      "index": 346,
+      "mls_score": -11.934249877929688,
+      "threshold": -5.77525520324707
+    },
+    {
+      "index": 407,
+      "mls_score": -11.737601280212402,
+      "threshold": -5.77525520324707
+    },
+    {
+      "index": 129,
+      "mls_score": -11.726396560668945,
+      "threshold": -5.77525520324707
+    },
+    {
+      "index": 206,
+      "mls_score": -11.649356842041016,
+      "threshold": -5.77525520324707
+    }
+  ],
+  "far_incorrectly_accepted_most_confident": [
+    {
+      "index": 322,
+      "mls_score": -11.830073356628418,
+      "threshold": -5.77525520324707
+    },
+    {
+      "index": 557,
+      "mls_score": -11.645923614501953,
+      "threshold": -5.77525520324707
+    },
+    {
+      "index": 237,
+      "mls_score": -11.559596061706543,
+      "threshold": -5.77525520324707
+    },
+    {
+      "index": 236,
+      "mls_score": -11.501998901367188,
+      "threshold": -5.77525520324707
+    },
+    {
+      "index": 425,
+      "mls_score": -11.26489543914795,
+      "threshold": -5.77525520324707
+    }
+  ],
+  "near_total_incorrectly_accepted": 566,
+  "far_total_incorrectly_accepted": 385,
+  "near_total": 800,
+  "far_total": 800
+}
