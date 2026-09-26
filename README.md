@@ -27,13 +27,18 @@ See task3/README.md for details.
 
 All experiments that specify a seed use **6304**.
 
+Datasets (STL-10, PACS, CIFAR-10, CIFAR-100) are downloaded automatically via `torchvision.datasets`
+on first run; no manual download is required.
+
 ## Reproducing results
 
 - Task 1: run `task1/ATML_PA1_Task1_skeleton.ipynb` top to bottom (Colab, T4 GPU). Results land in `task1/results/`.
 - Task 2: `task2/methods/source_only.py`, `dan.py`, `dann.py`, `cdan.py` (run in that order),
   then `task2/evaluation/evaluate_final.py`, then `task2/methods/controlled_study.py`.
 - Task 3: `task3/methods/erm.py` (loads Task 2's source_only checkpoint, does not retrain),
-  then `dan_dg.py`, `sam.py`.
+  then `dan_dg.py`, `sam.py`, then `task3/methods/controlled_study_dg.py` for the λ-sweep,
+  then `task3/evaluation/evaluate_diagnostics.py` (source separability, sharpness) and
+  `task3/evaluation/evaluate_sketch.py` (final Sketch accuracy/F1 and per-class results).
 - Task 4: `python task4/train.py --method vanilla|gcsc|proser`, then `python task4/evaluate_osr.py`.
 
 ## Attribution
@@ -45,8 +50,4 @@ All experiments that specify a seed use **6304**.
 
 ## Status
 
-- [x] Task 1
-- [ ] Task 2 (results done, report pending)
-- [ ] Task 3 (in progress)
-- [ ] Task 4
-- [ ] Report
+All four tasks and the report are complete.
